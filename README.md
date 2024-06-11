@@ -15,3 +15,5 @@
 **部分参会人员网页:** [杨金榜](https://jbyang1987.github.io/index.html)，[孙锐然](https://sites.google.com/view/ruiransunmath/homepage)，[徐万元](http://teacher.shnu.edu.cn/slxy/xwy/listm.htm)，[孙浩](https://www.researchgate.net/profile/Hao_Sun28)，[陆俊](https://math.ecnu.edu.cn/facultydetail.html?uid=jlu)，[陈亦飞](http://homepage.amss.ac.cn/research/homePage/4e9019d7b99747c1817e57bc91664f19/myHomePage.html)，[杨文](https://grzy.hnu.edu.cn/site/index/yangwen2)，[李晓斌](https://faculty.swjtu.edu.cn/lixiaobin1/zh_CN/index.htm)，[赵辉](https://scholar.harvard.edu/huizhao/meshdgp)，[罗强华](https://www.researchgate.net/profile/Qianghua-Luo)，[陆斯成](https://www.researchgate.net/profile/Sicheng-Lu-4)，[朱胜茂](https://mypage.zjnu.edu.cn/ZSM5/zh_CN/index.htm)
 
 (更多待确认）
+
+**经费支持:** 面上基金 No.11871422 Teichmüller动力学相关问题研究，107100*194212403 中央国库经费，107100+194412404 省国库经费
