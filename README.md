@@ -15,20 +15,20 @@
 **报告日程:**
 
 | 时间  | 7月1日 | 7月2日 | 7月3日 | 7月4日  | 7月5日  |
-| ---- | ----   | ---- |  ---- |  ---- |  ---- |
-|      | 左康  |  谈胜利 | 杨晓奎 | 方博汉 | 陈琪乐 |
-|      | 张翼华  |  胡勇 | 宗正宇 | 刘治宇 | 张子宇 |
-|      | 刘克峰  |  吕鑫 | 杜荣 | 袁瑶 | 张诗卓 |
-|      | 郭帅 |  郑志伟 |      | 张通 |       |
-|      | 陈亦飞  |  魏传豪 |     | 贾甲 |       |
+| :----: | :----:   | :----: |  :----: |  :----: |  :----: |
+|      | 左康  |  谈胜利 | 杨晓奎 | 方博汉 | 张子宇 |
+|      | 张翼华  |  胡勇 | 张通  | 宗正宇  | 刘治宇 |
+|      | 陈亦飞  |  吕鑫 | 杜荣 | 袁瑶 | 张诗卓 |
+|      | 刘克峰 |  郑志伟 |      | 贾甲 |       |
+|      | 郭帅  |  魏传豪 |     | 陈琪乐 |       |
 
 | 时间  | 7月8日 | 7月9日 | 7月10日 | 7月11日  | 7月12日  |
-| ---- | ----   | ---- |  ---- |  ---- |  --- |
-|      | 阮勇斌  |  李方 | 李志远 | 冀诸超 |  |
-|      | 蒋云峰  |  黄意 | 何翔 | 范祐维 |  |
-|      | 杨迪  |  李琼玲 | 田志宇 | 孙哲 |  |
-|      | 邱宇 |  苏伟旭 |      | 聂鑫 |    |
-|      | 吴云辉  |  潘会平 |     | 韩喆 |   |
+| :----: | :----:   | :----: |  :----: |  :----: |  :----: |
+|      | 阮勇斌  |  李方 | 苏伟旭  | 李琼玲 |  |
+|      | 蒋云峰  |  孙哲  | 范祐维  | 李志远  |  |
+|      | 邱宇  |  黄意  | 韩喆  | 田志宇 |  |
+|      | 杨迪 |  潘会平 |      | 聂鑫 |    |
+|      | 吴云辉  |  冀诸超  |     | 何翔  |   |
 
 **部分参会人员网页:** [杨金榜](https://jbyang1987.github.io/index.html)，[孙悦然](https://sites.google.com/view/ruiransunmath/homepage)，[徐万元](http://teacher.shnu.edu.cn/slxy/xwy/listm.htm)，[孙浩](https://www.researchgate.net/profile/Hao_Sun28)，[陆俊](https://math.ecnu.edu.cn/facultydetail.html?uid=jlu)，[杨文](https://grzy.hnu.edu.cn/site/index/yangwen2)，[李晓斌](https://faculty.swjtu.edu.cn/lixiaobin1/zh_CN/index.htm)，[赵辉](https://scholar.harvard.edu/huizhao/meshdgp)，[罗强华](https://www.researchgate.net/profile/Qianghua-Luo)，[陆斯成](https://www.researchgate.net/profile/Sicheng-Lu-4)，[朱胜茂](https://mypage.zjnu.edu.cn/ZSM5/zh_CN/index.htm)，[刘小雷](http://faculty.dlut.edu.cn/liuxiaolei/zh_CN/index.htm)，[谭东](https://gxcmr.gxu.edu.cn/info/1145/1502.htm)
 
