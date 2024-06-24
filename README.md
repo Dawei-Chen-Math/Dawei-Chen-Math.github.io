@@ -39,14 +39,19 @@
 摘要: Introducing the notion of generic rigidity for maps into moduli spaces of projective manifolds with good minimal model. 
 We conjecture that a moduli space, which fails  being the generic rigidity, is a Shimura variety of rank >1. We shall discuss some evidences to this conjecture. This is a joint project with Chen-Hu-Sun.   
 
+张翼华 (清华大学)  
+题目: Characterization of non ergodic directions in branched double covers of Veech surfaces    
+摘要: A closed Riemann surface together with a holomorphic 1-form on it defines a translation surface, which is none other than a section of the canonical line bundle of the Riemann surface. The collection of all such sections forms a bundle of the moduli space of closed Riemann surfaces, sometimes referred to as the Hodge bundle.  The existence of an action of SL(2,R) on this bundle is one of the main sources of interplay between geometry and dynamics on moduli spaces. When the SL(2,R)-orbit is closed, its projection to moduli space is called a Teichmuller curve and the any holomorphic 1-form with this property is called a Veech surface. Translation surfaces are themselves interesting geometric structures, e.g. they exhibit a 1-parameter family of directional flows and in the case of Veech surfaces as discovered in 1989, these flows exhibit a certain dichotomy: they are either completely periodic or uniquely ergodic. In this talk, I will describe a different kind of dichotomy discovered in 2011 by Cheung-Hubert-Masur that arises from the investigation of the Hausdorff dimension of the set of nonergodic directions. This result relies on an extension of Masur’s divergence obtained by Cheung-Eskin in 2007, which allowed for the characterization of non ergodic directions in the case of branched double covers of flat tori. Recently, my student Yuming WEI has shown how to extend the dichotomy Hausdorff dimension result to the general case of branched double covers of tori. My goal in this talk is to explain how the characterization of non ergodic directions further extends to certain branhed double covers of Veech surfaces.   
+
 陈亦飞 (中国科学院数学所)  
 题目: Jordan property of automorphism groups of surfaces of positive characteristic     
 摘要: A classical theorem of C. Jordan asserts the general linear group $GL_n$ over a field of characteristic zero is Jordan. 
 That is, any finite subgroup of G contains a normal abelian subgroup of index at most J, where J is an integer only depends on the group G. 
-For the Cremona group of rank n, which is the birational automorphism group of the projective space of dim n, J.-P. Serre proved that the Cremona group of rank 2 has Jordan property. 
-Serre conjectured that the Cremona group of rank n has Jordan property. Prokhorov and Shramov proved the Cremona group of rank 3 has Jordan property, and they pointed out Serre's conjecture holds if the boundedness of Fano varieties conjecture (BAB conjecture) holds. 
-As the BAB conjecture is proved by the Fields medalist Caucher Birkar, Serre's conjecture holds. 
-In this talk, we will discuss Jordan property for automorphism groups of surfaces of positive characteristic. This is a joint work with C. Shramov.   
+For the Cremona group of rank n, which is the birational automorphism group of the projective space of dim n, J.-P. Serre proved that the Cremona group of rank 2 has Jordan property. Serre conjectured that the Cremona group of rank n has Jordan property. Prokhorov and Shramov proved the Cremona group of rank 3 has Jordan property, and they pointed out Serre's conjecture holds if the boundedness of Fano varieties conjecture (BAB conjecture) holds. As the BAB conjecture is proved by the Fields medalist Caucher Birkar, Serre's conjecture holds. In this talk, we will discuss Jordan property for automorphism groups of surfaces of positive characteristic. This is a joint work with C. Shramov.   
+
+谈胜利 (华东师范大学)  
+题目: 代数曲面叶层化和庞加莱问题  
+摘要: 我们将介绍代数曲面叶层化和庞加莱问题的研究历史与最新进展。
 
 胡勇 (上海交通大学)    
 题目: Noether inequality for irregular threefolds of general type    
@@ -87,6 +92,10 @@ This is a joint work in progress with S. Coughlan, Y.Hu, and R. Pignatelli.
 As applications, we obtain a so-called reverse Miyaoka-Yau's inequality and improve the classical 1/4-pinched theorem and negative 1/4-pinched theorem for compact Kahler-Einstein manifolds to a smaller pinching constant. 
 Moreover, we confirm Yau's conjecture on positive holomorphic sectional curvature and Siu-Yang's conjecture on negative holomorphic sectional curvature if the absolute value of the holomorphic sectional curvature is small enough.  
 
+方博汉 (北京大学）  
+题目: Oscillatory integrals in mirror symmetry  
+摘要: I will describe the oscillatory and period integrals on the B-side of mirror symmetry. They correspond to Gromov-Witten primary and descendant invariants of Gamma-modified twisted Chern classes of the mirror coherent sheaves. The cycles for integration correspond to these mirror sheaves by homological mirror symmetry, and one may obtain higher genus invariants if using correct higher genus B-model integrands. I will explain some examples in the setting of toric mirrors and Gross-Hacking-Keel mirror LG models, and discuss application to Gamma conjectures in the toric setting.  
+
 宗正宇 (清华大学)    
 题目: Open WDVV equations for toric Calabi-Yau 3-folds  
 摘要: The Witten-Dijkgraaf-Verlinde-Verlinde (WDVV) equations is an important system of equations in the study of
@@ -97,6 +106,10 @@ genus zero Gromov-Witten invariants. It implies the associativity of the quantum
 摘要: We build bridges between moduli theory of sheaf stable pairs on one hand and birational geometry on the other hand. 
 We will in particular treat moduli of sheaf stable pairs on smooth projective curves in detail and present some calculations in low degrees. 
 This is based on a joint work with Caucher Birkar and Artan Sheshmani.   
+
+张子宇（上海科技大学）  
+题目: Some irreducible components of moduli spaces of stable bundles on hyperkähler manifolds  
+摘要: Stable sheaves on K3 surfaces have been extensively studied. However, it is a challenging question to construct examples of stable sheaves on hyperkähler manifolds of higher dimensions. In this talk I will present several constructions, which produce irreducible components of the moduli spaces of such sheaves. In particular, one of the constructions yields an irreducible component with non-trivial canonical bundle. Based on joint work with Fabian Reede.   
 
 刘治宇 (浙江大学)      
 题目: Atomic sheaves on hyper-Kähler manifolds via Bridgeland moduli spaces  
@@ -117,7 +130,6 @@ In this talk I will talk about the PGL_r/SL_r-correspondence for the Vafa-Witten
 摘要: We study the moduli space of quadratic differentials with simple zeros and prescribed polar type. 
 We prove the fundamental group of which equals the kernel of Abel-Jacobi map. 
 Then we discuss the partial compactification (with orbifolding) and categorification.   
-
 
 杨迪 (中国科学技术大学)     
 题目: Computations on Masur--Veech volumes of moduli spaces of quadratic differentials   
