@@ -32,7 +32,7 @@
 |      | 杨迪 |  潘会平 |      | 聂鑫 |    |
 |      | 吴云辉  |  冀诸超  |     | 何翔  |   |
 
-**报告摘要:**
+**报告信息:**
 
 左康 (武汉大学)   
 报告题目: Maps into moduli spaces and generic rigidity       
