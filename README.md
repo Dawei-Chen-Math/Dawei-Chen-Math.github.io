@@ -12,6 +12,8 @@
 
 **7月8-12日报告人:** [范祐维](https://ywfan-math.github.io/)，[韩喆](https://maths.henu.edu.cn/info/1204/5615.htm)，[何翔](https://sites.google.com/site/xiangghe/)，[黄意](https://www.yihuang.site/)，[冀诸超](https://sites.google.com/site/zhuchaojishomepage/)，[蒋云峰](https://jiang.ku.edu)，[李方](https://person.zju.edu.cn/0098292#0)，[李琼玲](http://www.cim.nankai.edu.cn/2019/0110/c11453a118234/page.htm)，[李志远](https://faculty.fudan.edu.cn/zhiyuanli/zh_CN/index.htm)，[聂鑫](https://sites.google.com/site/xinniemath/)，[潘会平](http://www2.scut.edu.cn/math/2018/0316/c14638a482211/page.htm)，[邱宇](https://ubw-q.github.io/)，[阮勇斌](http://www.iasm.zju.edu.cn/2021/0525/c24255a2380362/page.htm)，[苏伟旭](https://math.sysu.edu.cn/teacher/3043)，[孙哲](https://sites.google.com/site/zhesunmath/research?authuser=0)，[田志宇](http://faculty.bicmr.pku.edu.cn/~tianzhiyu/)，[吴云辉](https://www.math.tsinghua.edu.cn/info/1125/1901.htm)，[杨迪](http://staff.ustc.edu.cn/~diyang/)
 
+**部分参会人员网页:** [杨金榜](https://jbyang1987.github.io/index.html)，[孙悦然](https://sites.google.com/view/ruiransunmath/homepage)，[徐万元](http://teacher.shnu.edu.cn/slxy/xwy/listm.htm)，[孙浩](https://www.researchgate.net/profile/Hao_Sun28)，[陆俊](https://math.ecnu.edu.cn/facultydetail.html?uid=jlu)，[杨文](https://grzy.hnu.edu.cn/site/index/yangwen2)，[李晓斌](https://faculty.swjtu.edu.cn/lixiaobin1/zh_CN/index.htm)，[赵辉](https://scholar.harvard.edu/huizhao/meshdgp)，[罗强华](https://www.researchgate.net/profile/Qianghua-Luo)，[陆斯成](https://www.researchgate.net/profile/Sicheng-Lu-4)，[朱胜茂](https://mypage.zjnu.edu.cn/ZSM5/zh_CN/index.htm)，[刘小雷](http://faculty.dlut.edu.cn/liuxiaolei/zh_CN/index.htm)，[谭东](https://gxcmr.gxu.edu.cn/info/1145/1502.htm)
+
 **报告日程:**
 
 | 时间  | 7月1日 | 7月2日 | 7月3日 | 7月4日  | 7月5日  |
@@ -29,8 +31,6 @@
 |      | 邱宇  |  黄意  | 韩喆  | 田志宇 |  |
 |      | 杨迪 |  潘会平 |      | 聂鑫 |    |
 |      | 吴云辉  |  冀诸超  |     | 何翔  |   |
-
-**部分参会人员网页:** [杨金榜](https://jbyang1987.github.io/index.html)，[孙悦然](https://sites.google.com/view/ruiransunmath/homepage)，[徐万元](http://teacher.shnu.edu.cn/slxy/xwy/listm.htm)，[孙浩](https://www.researchgate.net/profile/Hao_Sun28)，[陆俊](https://math.ecnu.edu.cn/facultydetail.html?uid=jlu)，[杨文](https://grzy.hnu.edu.cn/site/index/yangwen2)，[李晓斌](https://faculty.swjtu.edu.cn/lixiaobin1/zh_CN/index.htm)，[赵辉](https://scholar.harvard.edu/huizhao/meshdgp)，[罗强华](https://www.researchgate.net/profile/Qianghua-Luo)，[陆斯成](https://www.researchgate.net/profile/Sicheng-Lu-4)，[朱胜茂](https://mypage.zjnu.edu.cn/ZSM5/zh_CN/index.htm)，[刘小雷](http://faculty.dlut.edu.cn/liuxiaolei/zh_CN/index.htm)，[谭东](https://gxcmr.gxu.edu.cn/info/1145/1502.htm)
 
 **报告摘要:**
 
@@ -188,6 +188,7 @@ We will focus on the link between both subjects with hyperbolic geometry and Tei
 In this talk, we explain how the tropicalization of a family of algebraic curves forms a family of tropical curves, and describe certain balancing conditions of the induced map to moduli space of tropical curves. If time permits, we will also discuss applications to liftability of tropical curves and irreducibility of Severi varieties. This is joint work with Karl Christ and Ilya Tyomkin.   
 
 **交通:**  
+
 杭州西站: 开车约13公里，地铁约50分  
 杭州东站: 开车约18公里，地铁约50分  
 杭州站: 开车约19公里，地铁约54分  
