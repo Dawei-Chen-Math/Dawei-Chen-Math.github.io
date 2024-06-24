@@ -107,7 +107,7 @@ genus zero Gromov-Witten invariants. It implies the associativity of the quantum
 We will in particular treat moduli of sheaf stable pairs on smooth projective curves in detail and present some calculations in low degrees. 
 This is based on a joint work with Caucher Birkar and Artan Sheshmani.   
 
-张子宇（上海科技大学）  
+张子宇 (上海科技大学)    
 题目: Some irreducible components of moduli spaces of stable bundles on hyperkähler manifolds  
 摘要: Stable sheaves on K3 surfaces have been extensively studied. However, it is a challenging question to construct examples of stable sheaves on hyperkähler manifolds of higher dimensions. In this talk I will present several constructions, which produce irreducible components of the moduli spaces of such sheaves. In particular, one of the constructions yields an irreducible component with non-trivial canonical bundle. Based on joint work with Fabian Reede.   
 
