@@ -154,16 +154,16 @@ We can associate q with a flat metric and a unit ball of the measured lamination
 We study the Thurston volume of the unit ball and give lower and upper bounds for the volume function on the moduli space. 
 This is a joint work with Shenxing Zhang.   
 
-韩喆 (河南大学)     
-题目: Groupoids from moduli space of quadratic differentials on Riemann surfaces  
-摘要: By Bridgeland-Smith’s seminal work, the meromorphic quadratic differentials on compact Riemann surface could be realized as stability conditions on some triangulated categories. In this talk, I will introduce a groupoid given by cell structure of the moduli space of meromorphic quadratic differentials. 
-Furthermore, I will explain the connection between the groupoid and topology of the moduli space. 
-This is a joint work with A. King and Y. Qiu.
-
 范祐维 (清华大学)    
 题目: Dynamical aspects of categories   
 摘要: We will recall certain analogy between Teichmuller theory and triangulated categories, and discuss categorical results that are motivated from Teichmuller dynamics. 
 Some open questions will be mentioned if time permitted.  
+
+韩喆 (河南大学)     
+题目: Groupoids from moduli space of quadratic differentials on Riemann surfaces  
+摘要: By Bridgeland-Smith’s seminal work, the meromorphic quadratic differentials on compact Riemann surface could be realized as stability conditions on some triangulated categories. In this talk, I will introduce a groupoid given by cell structure of the moduli space of meromorphic quadratic differentials. 
+Furthermore, I will explain the connection between the groupoid and topology of the moduli space. 
+This is a joint work with A. King and Y. Qiu.  
 
 李志远 (复旦大学)    
 题目: Canonical cycles on moduli space of projective K3 surfaces and beyond  
