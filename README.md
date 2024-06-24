@@ -32,18 +32,17 @@
 
 **部分参会人员网页:** [杨金榜](https://jbyang1987.github.io/index.html)，[孙悦然](https://sites.google.com/view/ruiransunmath/homepage)，[徐万元](http://teacher.shnu.edu.cn/slxy/xwy/listm.htm)，[孙浩](https://www.researchgate.net/profile/Hao_Sun28)，[陆俊](https://math.ecnu.edu.cn/facultydetail.html?uid=jlu)，[杨文](https://grzy.hnu.edu.cn/site/index/yangwen2)，[李晓斌](https://faculty.swjtu.edu.cn/lixiaobin1/zh_CN/index.htm)，[赵辉](https://scholar.harvard.edu/huizhao/meshdgp)，[罗强华](https://www.researchgate.net/profile/Qianghua-Luo)，[陆斯成](https://www.researchgate.net/profile/Sicheng-Lu-4)，[朱胜茂](https://mypage.zjnu.edu.cn/ZSM5/zh_CN/index.htm)，[刘小雷](http://faculty.dlut.edu.cn/liuxiaolei/zh_CN/index.htm)，[谭东](https://gxcmr.gxu.edu.cn/info/1145/1502.htm)
 
-**住宿:**浙大紫金港校区附近的圆正启真酒店（注意不是圆正启真水晶酒店）
+**住宿:** 浙大紫金港校区附近的圆正启真酒店（注意不是圆正启真水晶酒店）
 
-**会场:**圆正启真酒店二楼会议厅
+**会场:** 圆正启真酒店二楼会议厅
 
-**交通:**
-
-杭州西站：开车约13公里，地铁约50分
-杭州东站：开车约18公里，地铁约50分
-杭州站： 开车约19公里，地铁约54分
-杭州南站：开车约42公里，地铁约1小时20分
-萧山国际机场：开车约45公里，地铁约1小时25分
-重要交通枢纽都有地铁，网约车和出租车专门接送口
+**交通:**  
+杭州西站：开车约13公里，地铁约50分  
+杭州东站：开车约18公里，地铁约50分  
+杭州站： 开车约19公里，地铁约54分  
+杭州南站：开车约42公里，地铁约1小时20分  
+萧山国际机场：开车约45公里，地铁约1小时25分  
+重要交通枢纽都有地铁，网约车和出租车专门接送口  
 最近地铁口：2号线虾龙圩站（距酒店1.1公里）
 
 **经费支持:** 面上基金 No.11871422 Teichmüller动力学相关问题研究，107100*194212403 中央国库经费，107100+194412404 省国库经费
