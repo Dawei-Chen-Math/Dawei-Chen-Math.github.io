@@ -35,7 +35,7 @@
 **报告信息:**
 
 左康 (武汉大学)   
-报告题目: Maps into moduli spaces and generic rigidity       
+题目: Maps into moduli spaces and generic rigidity       
 摘要: Introducing the notion of generic rigidity for maps into moduli spaces of projective manifolds with good minimal model. 
 We conjecture that a moduli space, which fails  being the generic rigidity, is a Shimura variety of rank >1. We shall discuss some evidences to this conjecture. This is a joint project with Chen-Hu-Sun.   
 
