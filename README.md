@@ -2,7 +2,7 @@
 ### <center> 2024年7月1-12日@浙江大学
 **会议动机:** 几何学在数学中占据着至关重要的地位，通过运用代数、分析、拓扑等多种方法研究几何，实现了将数学的各个领域紧密地联系在一起。模空间作为几何研究的核心之一，扮演着连接相似几何结构的纽带角色。近年来，几何与模空间的研究取得了许多关键性突破，同时也催生了一系列新的研究方向。在这一背景下，我们计划于二零二四年七月在浙江大学举办为期两周的“几何与模空间”学术会议。旨在介绍相关领域的前沿成果，促进来自不同学术背景的学者之间的交流，并致力于培养年轻学者的研究成长。我们期望，此次会议将成为一个有益的合作平台，为数学领域的新发展提供契机。
 
-**会议地点:** 浙江大学紫金港校区[圆正·启真酒店](http://www.yuanzhengqizhenhotel.com/cn/)
+**会场:** 浙江大学紫金港校区[圆正·启真酒店](http://www.yuanzhengqizhenhotel.com/cn/)二楼会议厅（注意不是圆正启真水晶酒店）
 
 **组织者:** [陈大卫](https://sites.google.com/bc.edu/dawei-chen)，[于飞](https://person.zju.edu.cn/yufei)
 
@@ -32,10 +32,6 @@
 
 **部分参会人员网页:** [杨金榜](https://jbyang1987.github.io/index.html)，[孙悦然](https://sites.google.com/view/ruiransunmath/homepage)，[徐万元](http://teacher.shnu.edu.cn/slxy/xwy/listm.htm)，[孙浩](https://www.researchgate.net/profile/Hao_Sun28)，[陆俊](https://math.ecnu.edu.cn/facultydetail.html?uid=jlu)，[杨文](https://grzy.hnu.edu.cn/site/index/yangwen2)，[李晓斌](https://faculty.swjtu.edu.cn/lixiaobin1/zh_CN/index.htm)，[赵辉](https://scholar.harvard.edu/huizhao/meshdgp)，[罗强华](https://www.researchgate.net/profile/Qianghua-Luo)，[陆斯成](https://www.researchgate.net/profile/Sicheng-Lu-4)，[朱胜茂](https://mypage.zjnu.edu.cn/ZSM5/zh_CN/index.htm)，[刘小雷](http://faculty.dlut.edu.cn/liuxiaolei/zh_CN/index.htm)，[谭东](https://gxcmr.gxu.edu.cn/info/1145/1502.htm)
 
-**住宿:** 浙大紫金港校区圆正启真酒店（注意不是圆正启真水晶酒店）
-
-**会场:** 圆正启真酒店二楼会议厅
-
 **交通:**  
 杭州西站: 开车约13公里，地铁约50分  
 杭州东站: 开车约18公里，地铁约50分  
@@ -44,8 +40,6 @@
 萧山国际机场: 开车约45公里，地铁约1小时25分  
 重要交通枢纽都有地铁，网约车和出租车专门接送口  
 最近地铁口: 2号线虾龙圩站（距酒店1.1公里）
-
-**经费支持:** 面上基金 No.11871422 Teichmüller动力学相关问题研究，107100*194212403 中央国库经费，107100+194412404 省国库经费
 
 **报告摘要:**
 
@@ -200,4 +194,6 @@ We will focus on the link between both subjects with hyperbolic geometry and Tei
 何翔 (清华大学)       
 报告题目: Balancing properties of tropical moduli maps  
 摘要: Tropical varieties collects the combinatorial data of degenerations of algebraic varieties. 
-In this talk, we explain how the tropicalization of a family of algebraic curves forms a family of tropical curves, and describe certain balancing conditions of the induced map to moduli space of tropical curves. If time permits, we will also discuss applications to liftability of tropical curves and irreducibility of Severi varieties. This is joint work with Karl Christ and Ilya Tyomkin.
+In this talk, we explain how the tropicalization of a family of algebraic curves forms a family of tropical curves, and describe certain balancing conditions of the induced map to moduli space of tropical curves. If time permits, we will also discuss applications to liftability of tropical curves and irreducibility of Severi varieties. This is joint work with Karl Christ and Ilya Tyomkin.   
+
+**经费支持:** 面上基金 No.11871422 Teichmüller动力学相关问题研究，107100*194212403 中央国库经费，107100+194412404 省国库经费
