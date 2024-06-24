@@ -30,8 +30,6 @@
 |      | 杨迪 |  潘会平 |      | 聂鑫 |    |
 |      | 吴云辉  |  冀诸超  |     | 何翔  |   |
 
-**报告摘要:** [点此进入](https://dawei-chen-math.github.io/Geometry-Moduli-Talks) 
-
 **部分参会人员网页:** [杨金榜](https://jbyang1987.github.io/index.html)，[孙悦然](https://sites.google.com/view/ruiransunmath/homepage)，[徐万元](http://teacher.shnu.edu.cn/slxy/xwy/listm.htm)，[孙浩](https://www.researchgate.net/profile/Hao_Sun28)，[陆俊](https://math.ecnu.edu.cn/facultydetail.html?uid=jlu)，[杨文](https://grzy.hnu.edu.cn/site/index/yangwen2)，[李晓斌](https://faculty.swjtu.edu.cn/lixiaobin1/zh_CN/index.htm)，[赵辉](https://scholar.harvard.edu/huizhao/meshdgp)，[罗强华](https://www.researchgate.net/profile/Qianghua-Luo)，[陆斯成](https://www.researchgate.net/profile/Sicheng-Lu-4)，[朱胜茂](https://mypage.zjnu.edu.cn/ZSM5/zh_CN/index.htm)，[刘小雷](http://faculty.dlut.edu.cn/liuxiaolei/zh_CN/index.htm)，[谭东](https://gxcmr.gxu.edu.cn/info/1145/1502.htm)
 
 **住宿:** 浙大紫金港校区圆正启真酒店（注意不是圆正启真水晶酒店）
@@ -48,3 +46,166 @@
 最近地铁口: 2号线虾龙圩站（距酒店1.1公里）
 
 **经费支持:** 面上基金 No.11871422 Teichmüller动力学相关问题研究，107100*194212403 中央国库经费，107100+194412404 省国库经费
+
+**报告摘要:**
+
+左康 (武汉大学)   
+报告题目: Maps into moduli spaces and generic rigidity       
+摘要: Introducing the notion of generic rigidity for maps into moduli spaces of projective manifolds with good minimal model. 
+We conjecture that a moduli space, which fails  being the generic rigidity, is a Shimura variety of rank >1. 
+We shall discuss some evidences to this conjecture. This is a joint project with Chen-Hu-Sun.   
+
+陈亦飞 (中国科学院数学所)  
+报告题目: Jordan property of automorphism groups of surfaces of positive characteristic     
+摘要: A classical theorem of C. Jordan asserts the general linear group $GL_n$ over a field of characteristic zero is Jordan. 
+That is, any finite subgroup of G contains a normal abelian subgroup of index at most J, where J is an integer only depends on the group G. 
+For the Cremona group of rank n, which is the birational automorphism group of the projective space of dim n, J.-P. Serre proved that the Cremona group of rank 2 has Jordan property. 
+Serre conjectured that the Cremona group of rank n has Jordan property. Prokhorov and Shramov proved the Cremona group of rank 3 has Jordan property, and they pointed out Serre's conjecture holds if the boundedness of Fano varieties conjecture (BAB conjecture) holds. 
+As the BAB conjecture is proved by the Fields medalist Caucher Birkar, Serre's conjecture holds. 
+In this talk, we will discuss Jordan property for automorphism groups of surfaces of positive characteristic. This is a joint work with C. Shramov.   
+
+胡勇 (上海交通大学)  
+报告题目: Noether inequality for irregular threefolds of general type    
+摘要: Let $X$ be a smooth irregular $3$-fold of general type. 
+In this talk, we will prove that the optimal Noether inequality $Vol(X) \ge \frac{4}{3}p_g(X)$ holds if $p_g(X) \ge 16$ or if $X$ has a Gorenstein minimal model. 
+Moreover, when $X$ attains the equality and $p_g(X) \ge 16$, its canonical model will be explicitly described. This is a joint work with Tong Zhang.  
+
+吕鑫 (华东师范大学)  
+报告题目: The canonical map of a foliated surface of general type  
+摘要: In this talk, we will report our study on the canonical map of a foliated surface of general type, which generalizes Beauville's work on the canonical map of an algebraic surface of general type. 
+Several boundedness results are proved as well as some interesting examples are constructed. 
+As an application, we establish the Noether type inequalities for foliated surfaces of general type.
+
+郑志伟 (清华大学)  
+报告题目: Recent progresses on locally symmetric varieties with modular meaning    
+摘要: An important topic in complex algebraic geometry is to realize moduli spaces of special objects as locally symmetric varieties via Hodge theory. 
+Well-known examples include moduli of polarized abelian varieties, Deligne-Mostow theory (moduli of weighted points on projective line), moduli of cubic hypersurfaces of dimension at most 4, moduli of polarized K3 surfaces, etc. 
+I will first survey the existing results and ideas. 
+Then I will introduce a new work with Chenglong Yu about several families of Calabi-Yau manifolds having periods in complex hyperbolic balls.   
+
+魏传豪 (西湖大学)  
+报告题目: On the Hodge theory of Toroidal embeddings and corresponding Vanishings  
+摘要: Deligne's logarithmic comparison theorem and the degeneracy of the spectural sequence of logarithmic de Rham complex gives the mixed Hodge structure of a projective smooth variety with a normal crossing boundary divisor. 
+In this talk, we will try to build a similar theory on toroidal embeddings. 
+In particular, we will show the $E_1$-degeneracy of the spectral sequence of the logarithmic de Rham complex of any toroidal triple. 
+This gives a geometric proof of a more general version of Danilov's conjecture.  
+
+张通 (华东师范大学)  
+报告题目: Threefolds on the Noether line  
+摘要: It is known by J. Chen, M. Chen and C. Jiang that every complex smooth threefold $X$ of general type with $p_g(X) \ge 11$ satisfies the Noether inequality $Vol(X) \ge 4/3 p_g(X) - 10/3$. 
+If $X$ attains the equality, it is said to be on the Noether line. 
+In this talk, I will introduce what we know so far about threefolds on the Noether line. 
+This is a joint work in progress with S. Coughlan, Y.Hu, and R. Pignatelli.   
+
+杜荣 (华东师范大学)
+报告题目: A Chern numbers identity on compact Kahler-Einstein manifolds and its applications  
+摘要: For compact Kahler-Einstein manifolds, we find an expression of Chern numbers in the form of the holomorphic sectional curvatures at a fixed point by means of algebraic invariant theory. 
+As applications, we obtain a so-called reverse Miyaoka-Yau's inequality and improve the classical 1/4-pinched theorem and negative 1/4-pinched theorem for compact Kahler-Einstein manifolds to a smaller pinching constant. 
+Moreover, we confirm Yau's conjecture on positive holomorphic sectional curvature and Siu-Yang's conjecture on negative holomorphic sectional curvature if the absolute value of the holomorphic sectional curvature is small enough.  
+
+宗正宇 (清华大学) 
+报告题目: Open WDVV equations for toric Calabi-Yau 3-folds  
+摘要: The Witten-Dijkgraaf-Verlinde-Verlinde (WDVV) equations is an important system of equations in the study of
+genus zero Gromov-Witten invariants. It implies the associativity of the quantum product. The associativity of the quantum product has many important applications including the recursive formula given by Kontsevich and Manin that calculates the Gromov-Witten invariants of the projective plane.  
+The system of open WDVV equations plays an important role in the study of open Gromov-Witten invariants. It can be viewed as an extension of the WDVV equation to the open sector. The natural structure that captures the WDVV equation is that of a Frobenius manifold. Similarly, the system of open WDVV equations determines the structure of an F-manifold, a generalization of a Frobenius manifold.  
+In this talk, we prove two versions of open WDVV equations for toric Calabi-Yau 3-folds.  The first version leads to the construction of a semi-simple (formal) Frobenius manifold and the second version leads to the construction of
+a (formal) F-manifold. This is a joint work with Song Yu.  
+
+贾甲 (清华大学)  
+报告题目: Sheaf stable pairs and birational geometry   
+摘要: We build bridges between moduli theory of sheaf stable pairs on one hand and birational geometry on the other hand. 
+We will in particular treat moduli of sheaf stable pairs on smooth projective curves in detail and present some calculations in low degrees. 
+This is based on a joint work with Caucher Birkar and Artan Sheshmani.   
+
+刘治宇 (浙江大学)
+报告题目: Atomic sheaves on hyper-Kähler manifolds via Bridgeland moduli spaces  
+摘要: Atomic sheaves on hyper-Kähler manifolds have well-behaved Hodge-theoretic properties, and are the natural analogs of simple sheaves on K3 surfaces. 
+Despiting their nice properties, only a few concrete examples are known on general projective hyper-Kähler manifolds. 
+In this talk, I will first review the theory of atomic sheaves, then I'll explain two methods to construct atomic sheaves supported on Lagrangians in the moduli spaces of stable objects in the K3 categories of Gushel-Mukai fourfolds. 
+If time permits, I'd like to talk about an explicit example of atomic Lagrangians in a hyper-Kähler fourfold and relate it to a conjectural construction of new deformation types of hyper-Kähler manifolds. 
+This is based on the joint work with Hanfei Guo.   
+
+蒋云峰 (美国堪萨斯大学)  
+报告题目: A SL_r/PGL_r-correspondence for algebraic surfaces   
+摘要: For a real 4-dimensional manifold (a smooth projective surface in algebraic geometry) X, the S-duality conjecture implies that we should consider the moduli spaces of stable SL_r-Higgs bundles and stable PGL_r-Higgs bundles on X. 
+The invariants defined by perfect obstruction theories on such moduli spaces are called the Vafa-Witten invariants, which were defined by Tanaka-Thomas in the SL_r side, and by Jiang-Kool in the PGL_r side. 
+In this talk I will talk about the PGL_r/SL_r-correspondence for the Vafa-Witten invariants for these two sides in both K3 surfaces and general type surfaces.   
+
+邱宇 (清华大学) 
+报告题目: Moduli spaces of quadratic differentials: Abel-Jacobi map and deformation  
+摘要: We study the moduli space of quadratic differentials with simple zeros and prescribed polar type. 
+We prove the fundamental group of which equals the kernel of Abel-Jacobi map. 
+Then we discuss the partial compactification (with orbifolding) and categorification.   
+
+
+杨迪 (中国科学技术大学)
+报告题目: Computations on Masur--Veech volumes of moduli spaces of quadratic differentials   
+摘要: Based on the Chen--M\"oller--Sauvaget formula, we apply the theory of integrable systems to derive three Painle\'e-type equations for the generating series of the Masur--Veech (MV) volumes associated with the principal strata of the moduli spaces of quadratic differentials, and propose refinements of the conjectural formulas given by Delecroix--Goujard--Zograf--Zorich on the large genus asymptotics of the MV volumes. 
+We will also apply the Delecroix--Goujard--Zograf--Zorich formula and Witten's intersection numbers to the study of the large genus asymptotics of the MV volumes. 
+The talk is based on arXiv:2005.02275, arXiv:2110.06774.   
+
+吴云辉 (清华大学) 
+报告题目: Prime geodesic theorem and closed geodesics for large genus  
+摘要: In this work, we study the Prime Geodesic Theorem for random hyperbolic surfaces. 
+As an application, we show that as the genus g goes to infinity, on a generic hyperbolic surface in the moduli space of Riemann surfaces of genus g, most closed geodesics of length significantly less than $\sqrt{g}$ are simple and non-separating, and most closed geodesics of length significantly greater than $\sqrt{g}$ are non-simple, confirming a conjecture of Lipnowski-Wright. 
+This is a joint work with Yuhao Xue.  
+
+孙哲 (中国科学技术大学)  
+报告题目: Exponential volumes of moduli spaces of hyperbolic surfaces  
+摘要: A decorated surface S is an oriented topological surface with marked points on the boundary considered modulo the isotopy. 
+The ideal hyperbolic structure on S is the hyperbolic structures on S with geodesic boundary such that the hyperbolic structure near each marked point is a cusp, equipped with a horocycle near each such cusp. 
+We consider the moduli space M_S(K,L) of ideal hyperbolic structures on S, which carries a canonical volume form that generalizes the Weil-Petersson volume form. But the volume of the space M_S(K,L) is infinite when the set of marked points is non-empty, also for its variation without horocycles. 
+To fix this problem, we introduce the exponential volume form given by the volume form multiplied by the exponent of a canonical function on M_S(K,L).
+We show that the exponential volume is finite. And we prove the recursion formulas for the exponential volumes, generalising Mirzakhani's recursions for the volumes of moduli spaces of hyperbolic surfaces. 
+We expect the exponential volumes are relevant to the open string theory. This is a joint work with Alexander Goncharov.   
+
+潘会平 (华南理工大学) 
+报告题目: Algebraic intersection for hyperbolic surfaces                             
+摘要: How much can two curves of given length intersect each other? In this talk, we will discuss the algebraic intersection form of hyperbolic surfaces. We will show that the algebraic intersection form has a minimum in the moduli space and that the minimum grows in the order $(\log g)^{-2}$ in terms of the genus. We will also describe the asymptotic behavior in the moduli space. This is a joint work with Manman Jiang.
+
+冀诸超 (西湖大学)   
+报告题目: The Dynamical André-Oort conjecture for rational maps  
+摘要: This is a joint work with Junyi Xie. 
+We prove the Dynamical André-Oort (DAO) conjecture proposed by Baker and DeMarco for families of rational maps parameterized by an algebraic curve. 
+In fact, we prove a stronger result, which is a Bogomolov type generalization of DAO for curves.
+
+苏伟旭 (复旦大学)
+报告题目: Thurston volume of the unit balls associated to quadratic differentials  
+摘要: Let q be a holomorphic quadratic differential on a compact Riemann surface. 
+We can associate q with a flat metric and a unit ball of the measured lamination space. 
+We study the Thurston volume of the unit ball and give lower and upper bounds for the volume function on the moduli space. 
+This is a joint work with Shenxing Zhang.   
+
+韩喆 (河南大学) 
+报告题目: Groupoids from moduli space of quadratic differentials on Riemann surfaces  
+摘要: By Bridgeland-Smith’s seminal work, the meromorphic quadratic differentials on compact Riemann surface could be realized as stability conditions on some triangulated categories.  
+In this talk, I will introduce a groupoid given by cell structure of the moduli space of meromorphic quadratic differentials. 
+Furthermore, I will explain the connection between the groupoid and topology of the moduli space. 
+This is a joint work with A. King and Y. Qiu.
+
+范祐维 (清华大学)  
+报告题目: Dynamical aspects of categories   
+摘要: We will recall certain analogy between Teichmuller theory and triangulated categories, and discuss categorical results that are motivated from Teichmuller dynamics. 
+Some open questions will be mentioned if time permitted.  
+
+李志远 (复旦大学)  
+报告题目: Canonical cycles on moduli space of projective K3 surfaces and beyond  
+摘要: In this talk, I will survey some results on studying algebraic cycles on moduli space of projective (marked) K3 surface. 
+This includes the construction of tautological ring, Deligne-Beilinson cohomology of universal K3 surfaces and computation of Chern classes of tagent bundles of the moduli space.   
+
+田志宇 (北京大学)
+报告题目: Homological stability and space of curves on some varieties  
+摘要: Homological stability about moduli space of curves, or mapping class groups, is by now well-understood. 
+I will discuss a set of conjectures as an attempt to understand homological stability of moduli space of curves on a very special class of varieties, such as the projective space, especially about their asymptotic behavior as the curve class becomes more and more positive. 
+This talk will be mostly about motivations, questions, some non-trivial evidence, but very few answers.   
+
+聂鑫 (东南大学)
+报告题目: Circle pattern and discrete conformality   
+摘要: We give a survey of two closely related objects of study in discrete geometry: circle patterns and discrete conformal equivalence of polyhedral surfaces. 
+The former deals with patterns of round circles on a surface whose combinatorics/topology is fixed, while the radii of circles may vary; the latter is a discrete analgoue of the usual conformal equivalence of Riemannian metrics. 
+We will focus on the link between both subjects with hyperbolic geometry and Teichmüller spaces, and discuss some recent progress and open problems.  
+
+何翔 (清华大学)   
+报告题目: Balancing properties of tropical moduli maps  
+摘要: Tropical varieties collects the combinatorial data of degenerations of algebraic varieties. 
+In this talk, we explain how the tropicalization of a family of algebraic curves forms a family of tropical curves, and describe certain balancing conditions of the induced map to moduli space of tropical curves. If time permits, we will also discuss applications to liftability of tropical curves and irreducibility of Severi varieties. This is joint work with Karl Christ and Ilya Tyomkin.
