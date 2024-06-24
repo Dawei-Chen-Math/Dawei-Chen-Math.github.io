@@ -52,8 +52,7 @@
 左康 (武汉大学)   
 报告题目: Maps into moduli spaces and generic rigidity       
 摘要: Introducing the notion of generic rigidity for maps into moduli spaces of projective manifolds with good minimal model. 
-We conjecture that a moduli space, which fails  being the generic rigidity, is a Shimura variety of rank >1. 
-We shall discuss some evidences to this conjecture. This is a joint project with Chen-Hu-Sun.   
+We conjecture that a moduli space, which fails  being the generic rigidity, is a Shimura variety of rank >1. We shall discuss some evidences to this conjecture. This is a joint project with Chen-Hu-Sun.   
 
 陈亦飞 (中国科学院数学所)  
 报告题目: Jordan property of automorphism groups of surfaces of positive characteristic     
@@ -106,10 +105,7 @@ Moreover, we confirm Yau's conjecture on positive holomorphic sectional curvatur
 宗正宇 (清华大学)    
 报告题目: Open WDVV equations for toric Calabi-Yau 3-folds  
 摘要: The Witten-Dijkgraaf-Verlinde-Verlinde (WDVV) equations is an important system of equations in the study of
-genus zero Gromov-Witten invariants. It implies the associativity of the quantum product. The associativity of the quantum product has many important applications including the recursive formula given by Kontsevich and Manin that calculates the Gromov-Witten invariants of the projective plane.  
-The system of open WDVV equations plays an important role in the study of open Gromov-Witten invariants. It can be viewed as an extension of the WDVV equation to the open sector. The natural structure that captures the WDVV equation is that of a Frobenius manifold. Similarly, the system of open WDVV equations determines the structure of an F-manifold, a generalization of a Frobenius manifold.  
-In this talk, we prove two versions of open WDVV equations for toric Calabi-Yau 3-folds.  The first version leads to the construction of a semi-simple (formal) Frobenius manifold and the second version leads to the construction of
-a (formal) F-manifold. This is a joint work with Song Yu.  
+genus zero Gromov-Witten invariants. It implies the associativity of the quantum product. The associativity of the quantum product has many important applications including the recursive formula given by Kontsevich and Manin that calculates the Gromov-Witten invariants of the projective plane. The system of open WDVV equations plays an important role in the study of open Gromov-Witten invariants. It can be viewed as an extension of the WDVV equation to the open sector. The natural structure that captures the WDVV equation is that of a Frobenius manifold. Similarly, the system of open WDVV equations determines the structure of an F-manifold, a generalization of a Frobenius manifold. In this talk, we prove two versions of open WDVV equations for toric Calabi-Yau 3-folds. The first version leads to the construction of a semi-simple (formal) Frobenius manifold and the second version leads to the construction of a (formal) F-manifold. This is a joint work with Song Yu.  
 
 贾甲 (清华大学)      
 报告题目: Sheaf stable pairs and birational geometry   
@@ -147,17 +143,14 @@ The talk is based on arXiv:2005.02275, arXiv:2110.06774.
 吴云辉 (清华大学)     
 报告题目: Prime geodesic theorem and closed geodesics for large genus  
 摘要: In this work, we study the Prime Geodesic Theorem for random hyperbolic surfaces. 
-As an application, we show that as the genus g goes to infinity, on a generic hyperbolic surface in the moduli space of Riemann surfaces of genus g, most closed geodesics of length significantly less than $\sqrt{g}$ are simple and non-separating, and most closed geodesics of length significantly greater than $\sqrt{g}$ are non-simple, confirming a conjecture of Lipnowski-Wright. 
-This is a joint work with Yuhao Xue.  
+As an application, we show that as the genus g goes to infinity, on a generic hyperbolic surface in the moduli space of Riemann surfaces of genus g, most closed geodesics of length significantly less than $\sqrt{g}$ are simple and non-separating, and most closed geodesics of length significantly greater than $\sqrt{g}$ are non-simple, confirming a conjecture of Lipnowski-Wright. This is a joint work with Yuhao Xue.  
 
 孙哲 (中国科学技术大学)    
 报告题目: Exponential volumes of moduli spaces of hyperbolic surfaces  
 摘要: A decorated surface S is an oriented topological surface with marked points on the boundary considered modulo the isotopy. 
-The ideal hyperbolic structure on S is the hyperbolic structures on S with geodesic boundary such that the hyperbolic structure near each marked point is a cusp, equipped with a horocycle near each such cusp. 
-We consider the moduli space M_S(K,L) of ideal hyperbolic structures on S, which carries a canonical volume form that generalizes the Weil-Petersson volume form. But the volume of the space M_S(K,L) is infinite when the set of marked points is non-empty, also for its variation without horocycles. 
+The ideal hyperbolic structure on S is the hyperbolic structures on S with geodesic boundary such that the hyperbolic structure near each marked point is a cusp, equipped with a horocycle near each such cusp. We consider the moduli space M_S(K,L) of ideal hyperbolic structures on S, which carries a canonical volume form that generalizes the Weil-Petersson volume form. But the volume of the space M_S(K,L) is infinite when the set of marked points is non-empty, also for its variation without horocycles. 
 To fix this problem, we introduce the exponential volume form given by the volume form multiplied by the exponent of a canonical function on M_S(K,L).
-We show that the exponential volume is finite. And we prove the recursion formulas for the exponential volumes, generalising Mirzakhani's recursions for the volumes of moduli spaces of hyperbolic surfaces. 
-We expect the exponential volumes are relevant to the open string theory. This is a joint work with Alexander Goncharov.   
+We show that the exponential volume is finite. And we prove the recursion formulas for the exponential volumes, generalising Mirzakhani's recursions for the volumes of moduli spaces of hyperbolic surfaces. We expect the exponential volumes are relevant to the open string theory. This is a joint work with Alexander Goncharov.   
 
 潘会平 (华南理工大学)    
 报告题目: Algebraic intersection for hyperbolic surfaces                             
@@ -178,8 +171,7 @@ This is a joint work with Shenxing Zhang.
 
 韩喆 (河南大学)     
 报告题目: Groupoids from moduli space of quadratic differentials on Riemann surfaces  
-摘要: By Bridgeland-Smith’s seminal work, the meromorphic quadratic differentials on compact Riemann surface could be realized as stability conditions on some triangulated categories.  
-In this talk, I will introduce a groupoid given by cell structure of the moduli space of meromorphic quadratic differentials. 
+摘要: By Bridgeland-Smith’s seminal work, the meromorphic quadratic differentials on compact Riemann surface could be realized as stability conditions on some triangulated categories. In this talk, I will introduce a groupoid given by cell structure of the moduli space of meromorphic quadratic differentials. 
 Furthermore, I will explain the connection between the groupoid and topology of the moduli space. 
 This is a joint work with A. King and Y. Qiu.
 
