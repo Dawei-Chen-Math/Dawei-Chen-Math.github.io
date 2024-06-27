@@ -18,10 +18,10 @@
 
 | 时间  | 7月1日 | 7月2日 | 7月3日 | 7月4日  | 7月5日  |
 | :----: | :----:   | :----: |  :----: |  :----: |  :----: |
-|      | 左康  |  谈胜利 | 杨晓奎 | 方博汉 | 张子宇 |
+|      | 左康  |  谈胜利 | 杨晓奎 | 郑志伟 | 张子宇 |
 |      | 张翼华  |  胡勇 | 张通  | 宗正宇  | 刘治宇 |
 |      | 陈亦飞  |  吕鑫 | 杜荣 | 袁瑶 | 张诗卓 |
-|      | 刘克峰 |  郑志伟 |      | 贾甲 |       |
+|      | 刘克峰 | 方博汉 |     | 贾甲 |       |
 |      | 郭帅  |  魏传豪 |     | 陈琪乐 |       |
 
 | 时间  | 7月8日 | 7月9日 | 7月10日 | 7月11日  | 7月12日  |
@@ -67,14 +67,11 @@ Moreover, when $X$ attains the equality and $p_g(X) \ge 16$, its canonical model
 题目: The canonical map of a foliated surface of general type   
 摘要: In this talk, we will report our study on the canonical map of a foliated surface of general type, which generalizes Beauville's work on the canonical map of an algebraic surface of general type. 
 Several boundedness results are proved as well as some interesting examples are constructed. 
-As an application, we establish the Noether type inequalities for foliated surfaces of general type.
+As an application, we establish the Noether type inequalities for foliated surfaces of general type.  
 
-郑志伟 (清华大学)    
-题目: Recent progresses on locally symmetric varieties with modular meaning   
-摘要: An important topic in complex algebraic geometry is to realize moduli spaces of special objects as locally symmetric varieties via Hodge theory. 
-Well-known examples include moduli of polarized abelian varieties, Deligne-Mostow theory (moduli of weighted points on projective line), moduli of cubic hypersurfaces of dimension at most 4, moduli of polarized K3 surfaces, etc. 
-I will first survey the existing results and ideas. 
-Then I will introduce a new work with Chenglong Yu about several families of Calabi-Yau manifolds having periods in complex hyperbolic balls.   
+方博汉 (北京大学）  
+题目: Oscillatory integrals in mirror symmetry  
+摘要: I will describe the oscillatory and period integrals on the B-side of mirror symmetry. They correspond to Gromov-Witten primary and descendant invariants of Gamma-modified twisted Chern classes of the mirror coherent sheaves. The cycles for integration correspond to these mirror sheaves by homological mirror symmetry, and one may obtain higher genus invariants if using correct higher genus B-model integrands. I will explain some examples in the setting of toric mirrors and Gross-Hacking-Keel mirror LG models, and discuss application to Gamma conjectures in the toric setting.  
 
 魏传豪 (西湖大学)   
 题目: On the Hodge theory of Toroidal embeddings and corresponding Vanishings  
@@ -96,9 +93,10 @@ This is a joint work in progress with S. Coughlan, Y.Hu, and R. Pignatelli.
 As applications, we obtain a so-called reverse Miyaoka-Yau's inequality and improve the classical 1/4-pinched theorem and negative 1/4-pinched theorem for compact Kahler-Einstein manifolds to a smaller pinching constant. 
 Moreover, we confirm Yau's conjecture on positive holomorphic sectional curvature and Siu-Yang's conjecture on negative holomorphic sectional curvature if the absolute value of the holomorphic sectional curvature is small enough.  
 
-方博汉 (北京大学）  
-题目: Oscillatory integrals in mirror symmetry  
-摘要: I will describe the oscillatory and period integrals on the B-side of mirror symmetry. They correspond to Gromov-Witten primary and descendant invariants of Gamma-modified twisted Chern classes of the mirror coherent sheaves. The cycles for integration correspond to these mirror sheaves by homological mirror symmetry, and one may obtain higher genus invariants if using correct higher genus B-model integrands. I will explain some examples in the setting of toric mirrors and Gross-Hacking-Keel mirror LG models, and discuss application to Gamma conjectures in the toric setting.  
+郑志伟 (清华大学)    
+题目: Recent progresses on locally symmetric varieties with modular meaning   
+摘要: An important topic in complex algebraic geometry is to realize moduli spaces of special objects as locally symmetric varieties via Hodge theory. 
+Well-known examples include moduli of polarized abelian varieties, Deligne-Mostow theory (moduli of weighted points on projective line), moduli of cubic hypersurfaces of dimension at most 4, moduli of polarized K3 surfaces, etc. I will first survey the existing results and ideas. Then I will introduce a new work with Chenglong Yu about several families of Calabi-Yau manifolds having periods in complex hyperbolic balls.   
 
 宗正宇 (清华大学)    
 题目: Open WDVV equations for toric Calabi-Yau 3-folds  
