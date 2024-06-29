@@ -19,28 +19,28 @@
 | 时间  | 7月1日 | 7月2日 | 7月3日 | 7月4日  | 7月5日  |
 | :----: | :----:   | :----: |  :----: |  :----: |  :----: |
 |  9:00-9:50    | 左康  | 陈琪乐 | 杨晓奎 | 谈胜利 | 张子宇 |
-|  9:50-10:10    | 茶歇  |  茶歇 | 茶歇 | 茶歇 | 茶歇 |
+|  9:50-10:10    |  茶歇  |
 |  10:10-11:00   | 张翼华  |  胡勇 | 张通  | 郑志伟 | 刘治宇 |
-|  11:00-11:20    | 茶歇  |  茶歇 | 茶歇 | 茶歇 | 茶歇 |
+|  11:00-11:20    | 茶歇  |  
 |  11:20-12:10    | 陈亦飞  |  吕鑫 | 杜荣 | 宗正宇 | 张诗卓 |
-|  12:10-14:30    | 午餐  |  午餐 | 午餐 | 午餐 | 午餐 |
+|  12:10-14:30    | 午餐  |  
 |  14:30-15:20    | 刘克峰 | 方博汉 | 自由活动  | 袁瑶  |  待定  |
-|  15:20-15:40    | 茶歇  |  茶歇 | 自由活动  | 茶歇 | 茶歇 |
-|   15:40-16:30   | 郭帅  |  魏传豪 | 自由活动 | 贾甲 |  待定  |
-|  18:00    | 晚餐  |  晚餐 | 晚餐 | 晚餐 | 晚餐 |
+|  15:20-15:40    | 茶歇  |  
+|   15:40-16:30   | 郭帅  |  魏传豪 |  | 贾甲 |  待定  |
+|  18:00    | 晚餐  |  
 
 | 时间  | 7月8日 | 7月9日 | 7月10日 | 7月11日  | 7月12日  |
 | :----: | :----:   | :----: |  :----: |  :----: |  :----: |
 |  9:00-9:50   | 阮勇斌  |  李方 | 苏伟旭  | 李琼玲 | 待定  |
-|  9:50-10:10    | 茶歇  |  茶歇 | 茶歇 | 茶歇 | 茶歇 |
+|  9:50-10:10    | 茶歇  |  
 |  10:10-11:00    | 蒋云峰  |  孙哲  | 范祐维  | 李志远  | 待定 |
-|  11:00-11:20    | 茶歇  |  茶歇 | 茶歇 | 茶歇 | 茶歇 |
+|  11:00-11:20    | 茶歇  | 
 |  11:20-12:10    | 邱宇  |  黄意  | 韩喆  | 田志宇 | 待定 |
-|  12:10-14:30    | 午餐  |  午餐 | 午餐 | 午餐 | 午餐 |
+|  12:10-14:30    | 午餐  |  
 |  14:30-15:20    | 杨迪 |  潘会平 |  自由活动    | 聂鑫 | 待定  |
-|  15:20-15:40    | 茶歇  |  茶歇 | 自由活动 | 茶歇 | 茶歇 |
+|  15:20-15:40    | 茶歇  |  
 |   15:40-16:30   | 吴云辉  |  冀诸超  | 自由活动  | 何翔  | 待定 |
-|  18:00    | 晚餐  |  晚餐 | 晚餐 | 晚餐 | 晚餐 |
+|  18:00    | 晚餐  |  
 
 **报告信息:**
 
@@ -67,9 +67,9 @@ For the Cremona group of rank n, which is the birational automorphism group of t
 题目: A generalization of Witten's Conjecture through spectral curve     
 摘要: By reviewing the history of the developments related to the Witten conjecture, we found that all the integrable hierarchies mentioned above are reductions of (multi-component) KP hierarchy. Furthermore, they all have an underlying global spectral curve in the sense of topological recursion. In this talk, we will proposed a generalization of Witten's conjecture. We then focus on the case when there is only one boundary in the spectral curve, and we explain the idea of the proof for this case. This is base on a joint work with Ce Ji and Qingsheng Zhang.   
 
-谈胜利 (华东师范大学)  
-题目: 代数曲面叶层化和庞加莱问题  
-摘要: 我们将介绍代数曲面叶层化和庞加莱问题的研究历史与最新进展。
+陈琪乐（美国波士顿学院）  
+题目: Campana rational connectedness      
+摘要: The notion of Campana points were introduced by Campana and Abramovich, which interpolate between rational points and integral points. In this talk, we will focus on the geometric side and introduce Campana rational connectedness---a version of rational connectedness for varieties with simple normal crossings boundaries. We futher prove that over function fields, weak approximations by Campana points at good places hold assuming Campana rational connectedness of fibers, generalizing a theorem of Hassett and Tschinkel. We futher verify Campana ratioanl connectedness for many basic examples. Our apporoach relies on the theory of stable log maps and their moduli. This is a joint work with Brian Lehmann and Sho Tanimoto.    
 
 胡勇 (上海交通大学)    
 题目: Noether inequality for irregular threefolds of general type    
@@ -108,6 +108,10 @@ This is a joint work in progress with S. Coughlan, Y.Hu, and R. Pignatelli.
 As applications, we obtain a so-called reverse Miyaoka-Yau's inequality and improve the classical 1/4-pinched theorem and negative 1/4-pinched theorem for compact Kahler-Einstein manifolds to a smaller pinching constant. 
 Moreover, we confirm Yau's conjecture on positive holomorphic sectional curvature and Siu-Yang's conjecture on negative holomorphic sectional curvature if the absolute value of the holomorphic sectional curvature is small enough.  
 
+谈胜利 (华东师范大学)  
+题目: 代数曲面叶层化和庞加莱问题  
+摘要: 我们将介绍代数曲面叶层化和庞加莱问题的研究历史与最新进展。 
+
 郑志伟 (清华大学)    
 题目: Recent progresses on locally symmetric varieties with modular meaning   
 摘要: An important topic in complex algebraic geometry is to realize moduli spaces of special objects as locally symmetric varieties via Hodge theory. 
@@ -127,10 +131,6 @@ genus zero Gromov-Witten invariants. It implies the associativity of the quantum
 摘要: We build bridges between moduli theory of sheaf stable pairs on one hand and birational geometry on the other hand. 
 We will in particular treat moduli of sheaf stable pairs on smooth projective curves in detail and present some calculations in low degrees. 
 This is based on a joint work with Caucher Birkar and Artan Sheshmani.   
-
-陈琪乐（美国波士顿学院）  
-题目: Campana rational connectedness      
-摘要: The notion of Campana points were introduced by Campana and Abramovich, which interpolate between rational points and integral points. In this talk, we will focus on the geometric side and introduce Campana rational connectedness---a version of rational connectedness for varieties with simple normal crossings boundaries. We futher prove that over function fields, weak approximations by Campana points at good places hold assuming Campana rational connectedness of fibers, generalizing a theorem of Hassett and Tschinkel. We futher verify Campana ratioanl connectedness for many basic examples. Our apporoach relies on the theory of stable log maps and their moduli. This is a joint work with Brian Lehmann and Sho Tanimoto.    
 
 张子宇 (上海科技大学)    
 题目: Some irreducible components of moduli spaces of stable bundles on hyperkähler manifolds  
