@@ -92,8 +92,8 @@ As an application, we establish the Noether type inequalities for foliated surfa
 摘要: Deligne's logarithmic comparison theorem and the degeneracy of the spectural sequence of logarithmic de Rham complex gives the mixed Hodge structure of a projective smooth variety with a normal crossing boundary divisor. In this talk, we will try to build a similar theory on toroidal embeddings. In particular, we will show the $E_1$-degeneracy of the spectral sequence of the logarithmic de Rham complex of any toroidal triple. This gives a geometric proof of a more general version of Danilov's conjecture.  
 
 杨晓奎 (清华大学)     
-题目: 待定   
-摘要: 待定    
+题目: Geometric positivity and rational connectedness      
+摘要: In this presentation, we shall talk about several characterizations of rationally connected varieties by using positivity notions in differential geometry and algebraic geometry.       
 
 张通 (华东师范大学)      
 题目: Threefolds on the Noether line  
