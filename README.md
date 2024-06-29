@@ -148,6 +148,10 @@ This is based on the joint work with Hanfei Guo.
 题目: Recent advances on categorical Torelli problems   
 摘要: Let X be a Fano variety(not necessarily smooth) and denote the non-trivial semi-orthogonal component by \Ku(X), known as the Kuznetsov component. The categorical Torelli problem asks if \Ku(X) determines the isomorphism class of X. I will briefly talk about the history of this topic, including the known results and popular strategies to prove these results(Hodge theoretic, moduli space theoretic and Chow theoretic). Then, I will survey the recent advances for (weighted) hypersurfaces, a cubic threefold with a geometric involution, del Pezzo threefold of Picard rank one, and a class of nodal prime Fano threefolds. Meanwhile, I will talk about some new approaches to solving these problems. If time permits, I will also speak about categorical Torelli problems for a class of index one prime Fano threefold as the double cover of del Pezzo threefolds. This talk is based on a series of works with Xun Lin, Zhiyu Liu, Soheyla Feyzbakhsh, Jorgen Renneomo, Xianyu Hu, Sabastian-Casalaina Martin, and Zheng Zhang.   
 
+阮勇斌（浙江大学）  
+题目: 待定  
+摘要: 待定   
+
 蒋云峰 (美国堪萨斯大学)        
 题目: A SL_r/PGL_r-correspondence for algebraic surfaces   
 摘要: For a real 4-dimensional manifold (a smooth projective surface in algebraic geometry) X, the S-duality conjecture implies that we should consider the moduli spaces of stable SL_r-Higgs bundles and stable PGL_r-Higgs bundles on X. 
@@ -171,12 +175,20 @@ The talk is based on arXiv:2005.02275, arXiv:2110.06774.
 摘要: In this work, we study the Prime Geodesic Theorem for random hyperbolic surfaces. 
 As an application, we show that as the genus g goes to infinity, on a generic hyperbolic surface in the moduli space of Riemann surfaces of genus g, most closed geodesics of length significantly less than $\sqrt{g}$ are simple and non-separating, and most closed geodesics of length significantly greater than $\sqrt{g}$ are non-simple, confirming a conjecture of Lipnowski-Wright. This is a joint work with Yuhao Xue.  
 
+李方（浙江大学）  
+题目: 待定  
+摘要: 待定   
+
 孙哲 (中国科学技术大学)    
 题目: Exponential volumes of moduli spaces of hyperbolic surfaces  
 摘要: A decorated surface S is an oriented topological surface with marked points on the boundary considered modulo the isotopy. 
 The ideal hyperbolic structure on S is the hyperbolic structures on S with geodesic boundary such that the hyperbolic structure near each marked point is a cusp, equipped with a horocycle near each such cusp. We consider the moduli space M_S(K,L) of ideal hyperbolic structures on S, which carries a canonical volume form that generalizes the Weil-Petersson volume form. But the volume of the space M_S(K,L) is infinite when the set of marked points is non-empty, also for its variation without horocycles. 
 To fix this problem, we introduce the exponential volume form given by the volume form multiplied by the exponent of a canonical function on M_S(K,L).
 We show that the exponential volume is finite. And we prove the recursion formulas for the exponential volumes, generalising Mirzakhani's recursions for the volumes of moduli spaces of hyperbolic surfaces. We expect the exponential volumes are relevant to the open string theory. This is a joint work with Alexander Goncharov.   
+
+黄意（清华大学）  
+题目: 待定  
+摘要: 待定   
 
 潘会平 (华南理工大学)    
 题目: Algebraic intersection for hyperbolic surfaces                             
@@ -205,6 +217,10 @@ Some open questions will be mentioned if time permitted.
 摘要: By Bridgeland-Smith’s seminal work, the meromorphic quadratic differentials on compact Riemann surface could be realized as stability conditions on some triangulated categories. In this talk, I will introduce a groupoid given by cell structure of the moduli space of meromorphic quadratic differentials. 
 Furthermore, I will explain the connection between the groupoid and topology of the moduli space. 
 This is a joint work with A. King and Y. Qiu.  
+
+李琼玲（南开大学）  
+题目: 待定  
+摘要: 待定   
 
 李志远 (复旦大学)    
 题目: Canonical cycles on moduli space of projective K3 surfaces and beyond  
