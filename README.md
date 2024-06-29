@@ -12,7 +12,7 @@
 
 **7月8-12日报告人:** [范祐维](https://ywfan-math.github.io/)，[韩喆](https://maths.henu.edu.cn/info/1204/5615.htm)，[何翔](https://sites.google.com/site/xiangghe/)，[黄意](https://www.yihuang.site/)，[冀诸超](https://sites.google.com/site/zhuchaojishomepage/)，[蒋云峰](https://jiang.ku.edu)，[李方](https://person.zju.edu.cn/0098292#0)，[李琼玲](http://www.cim.nankai.edu.cn/2019/0110/c11453a118234/page.htm)，[李志远](https://faculty.fudan.edu.cn/zhiyuanli/zh_CN/index.htm)，[聂鑫](https://sites.google.com/site/xinniemath/)，[潘会平](http://www2.scut.edu.cn/math/2018/0316/c14638a482211/page.htm)，[邱宇](https://ubw-q.github.io/)，[阮勇斌](http://www.iasm.zju.edu.cn/2021/0525/c24255a2380362/page.htm)，[苏伟旭](https://math.sysu.edu.cn/teacher/3043)，[孙哲](https://sites.google.com/site/zhesunmath/research?authuser=0)，[田志宇](http://faculty.bicmr.pku.edu.cn/~tianzhiyu/)，[吴云辉](https://www.math.tsinghua.edu.cn/info/1125/1901.htm)，[杨迪](http://staff.ustc.edu.cn/~diyang/)
 
-**部分参会人员网页:** [杨金榜](https://jbyang1987.github.io/index.html)，[孙悦然](https://sites.google.com/view/ruiransunmath/homepage)，[徐万元](http://teacher.shnu.edu.cn/slxy/xwy/listm.htm)，[孙浩](https://www.researchgate.net/profile/Hao_Sun28)，[陆俊](https://math.ecnu.edu.cn/facultydetail.html?uid=jlu)，[杨文](https://grzy.hnu.edu.cn/site/index/yangwen2)，[李晓斌](https://faculty.swjtu.edu.cn/lixiaobin1/zh_CN/index.htm)，[赵辉](https://scholar.harvard.edu/huizhao/meshdgp)，[罗强华](https://www.researchgate.net/profile/Qianghua-Luo)，[陆斯成](https://www.researchgate.net/profile/Sicheng-Lu-4)，[朱胜茂](https://mypage.zjnu.edu.cn/ZSM5/zh_CN/index.htm)，[刘小雷](http://faculty.dlut.edu.cn/liuxiaolei/zh_CN/index.htm)，[谭东](https://gxcmr.gxu.edu.cn/info/1145/1502.htm)
+**部分参会人员网页:** [杨金榜](https://jbyang1987.github.io/index.html)，[孙悦然](https://sites.google.com/view/ruiransunmath/homepage)，[徐万元](http://teacher.shnu.edu.cn/slxy/xwy/listm.htm)，[孙浩](https://www.researchgate.net/profile/Hao_Sun28)，[陆俊](https://math.ecnu.edu.cn/facultydetail.html?uid=jlu)，[杨文](https://grzy.hnu.edu.cn/site/index/yangwen2)，[李晓斌](https://faculty.swjtu.edu.cn/lixiaobin1/zh_CN/index.htm)，[赵辉](https://scholar.harvard.edu/huizhao/meshdgp)，[罗强华](https://www.researchgate.net/profile/Qianghua-Luo)，[陆斯成](https://www.researchgate.net/profile/Sicheng-Lu-4)，[朱胜茂](https://mypage.zjnu.edu.cn/ZSM5/zh_CN/index.htm)，[刘小雷](http://faculty.dlut.edu.cn/liuxiaolei/zh_CN/index.htm)，[谭东](https://gxcmr.gxu.edu.cn/info/1145/1502.htm)，[钟友良](https://zhongyl0430.github.io/)，[李灵光](https://math.tongji.edu.cn/info/1114/8351.htm)，[龚成](https://math.suda.edu.cn/40/b0/c18193a409776/page.htm)
 
 **报告日程:**
 
@@ -113,6 +113,10 @@ genus zero Gromov-Witten invariants. It implies the associativity of the quantum
 We will in particular treat moduli of sheaf stable pairs on smooth projective curves in detail and present some calculations in low degrees. 
 This is based on a joint work with Caucher Birkar and Artan Sheshmani.   
 
+陈琪乐（美国波士顿学院）  
+题目: Campana rational connectedness      
+摘要: The notion of Campana points were introduced by Campana and Abramovich, which interpolate between rational points and integral points. In this talk, we will focus on the geometric side and introduce Campana rational connectedness---a version of rational connectedness for varieties with simple normal crossings boundaries. We futher prove that over function fields, weak approximations by Campana points at good places hold assuming Campana rational connectedness of fibers, generalizing a theorem of Hassett and Tschinkel. We futher verify Campana ratioanl connectedness for many basic examples. Our apporoach relies on the theory of stable log maps and their moduli. This is a joint work with Brian Lehmann and Sho Tanimoto.    
+
 张子宇 (上海科技大学)    
 题目: Some irreducible components of moduli spaces of stable bundles on hyperkähler manifolds  
 摘要: Stable sheaves on K3 surfaces have been extensively studied. However, it is a challenging question to construct examples of stable sheaves on hyperkähler manifolds of higher dimensions. In this talk I will present several constructions, which produce irreducible components of the moduli spaces of such sheaves. In particular, one of the constructions yields an irreducible component with non-trivial canonical bundle. Based on joint work with Fabian Reede.   
@@ -124,6 +128,10 @@ Despiting their nice properties, only a few concrete examples are known on gener
 In this talk, I will first review the theory of atomic sheaves, then I'll explain two methods to construct atomic sheaves supported on Lagrangians in the moduli spaces of stable objects in the K3 categories of Gushel-Mukai fourfolds. 
 If time permits, I'd like to talk about an explicit example of atomic Lagrangians in a hyper-Kähler fourfold and relate it to a conjectural construction of new deformation types of hyper-Kähler manifolds. 
 This is based on the joint work with Hanfei Guo.   
+
+张诗卓（MSRI/晨兴数学中心）  
+题目: Recent advances on categorical Torelli problems   
+摘要: Let X be a Fano variety(not necessarily smooth) and denote the non-trivial semi-orthogonal component by \Ku(X), known as the Kuznetsov component. The categorical Torelli problem asks if \Ku(X) determines the isomorphism class of X. I will briefly talk about the history of this topic, including the known results and popular strategies to prove these results(Hodge theoretic, moduli space theoretic and Chow theoretic). Then, I will survey the recent advances for (weighted) hypersurfaces, a cubic threefold with a geometric involution, del Pezzo threefold of Picard rank one, and a class of nodal prime Fano threefolds. Meanwhile, I will talk about some new approaches to solving these problems. If time permits, I will also speak about categorical Torelli problems for a class of index one prime Fano threefold as the double cover of del Pezzo threefolds. This talk is based on a series of works with Xun Lin, Zhiyu Liu, Soheyla Feyzbakhsh, Jorgen Renneomo, Xianyu Hu, Sabastian-Casalaina Martin, and Zheng Zhang.   
 
 蒋云峰 (美国堪萨斯大学)        
 题目: A SL_r/PGL_r-correspondence for algebraic surfaces   
