@@ -49,6 +49,10 @@ We conjecture that a moduli space, which fails  being the generic rigidity, is a
 That is, any finite subgroup of G contains a normal abelian subgroup of index at most J, where J is an integer only depends on the group G. 
 For the Cremona group of rank n, which is the birational automorphism group of the projective space of dim n, J.-P. Serre proved that the Cremona group of rank 2 has Jordan property. Serre conjectured that the Cremona group of rank n has Jordan property. Prokhorov and Shramov proved the Cremona group of rank 3 has Jordan property, and they pointed out Serre's conjecture holds if the boundedness of Fano varieties conjecture (BAB conjecture) holds. As the BAB conjecture is proved by the Fields medalist Caucher Birkar, Serre's conjecture holds. In this talk, we will discuss Jordan property for automorphism groups of surfaces of positive characteristic. This is a joint work with C. Shramov.   
 
+刘克峰 (美国加州大学洛杉矶分校)    
+题目: 待定     
+摘要: 待定    
+
 郭帅 (北京大学)  
 题目: A generalization of Witten's Conjecture through spectral curve     
 摘要: By reviewing the history of the developments related to the Witten conjecture, we found that all the integrable hierarchies mentioned above are reductions of (multi-component) KP hierarchy. Furthermore, they all have an underlying global spectral curve in the sense of topological recursion. In this talk, we will proposed a generalization of Witten's conjecture. We then focus on the case when there is only one boundary in the spectral curve, and we explain the idea of the proof for this case. This is base on a joint work with Ce Ji and Qingsheng Zhang.   
@@ -75,10 +79,11 @@ As an application, we establish the Noether type inequalities for foliated surfa
 
 魏传豪 (西湖大学)   
 题目: On the Hodge theory of Toroidal embeddings and corresponding Vanishings  
-摘要: Deligne's logarithmic comparison theorem and the degeneracy of the spectural sequence of logarithmic de Rham complex gives the mixed Hodge structure of a projective smooth variety with a normal crossing boundary divisor. 
-In this talk, we will try to build a similar theory on toroidal embeddings. 
-In particular, we will show the $E_1$-degeneracy of the spectral sequence of the logarithmic de Rham complex of any toroidal triple. 
-This gives a geometric proof of a more general version of Danilov's conjecture.  
+摘要: Deligne's logarithmic comparison theorem and the degeneracy of the spectural sequence of logarithmic de Rham complex gives the mixed Hodge structure of a projective smooth variety with a normal crossing boundary divisor. In this talk, we will try to build a similar theory on toroidal embeddings. In particular, we will show the $E_1$-degeneracy of the spectral sequence of the logarithmic de Rham complex of any toroidal triple. This gives a geometric proof of a more general version of Danilov's conjecture.  
+
+杨晓奎 (清华大学)     
+题目: 待定   
+摘要: 待定    
 
 张通 (华东师范大学)      
 题目: Threefolds on the Noether line  
