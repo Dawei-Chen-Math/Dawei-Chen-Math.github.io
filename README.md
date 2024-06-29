@@ -188,7 +188,7 @@ We show that the exponential volume is finite. And we prove the recursion formul
 We prove the Dynamical André-Oort (DAO) conjecture proposed by Baker and DeMarco for families of rational maps parameterized by an algebraic curve. 
 In fact, we prove a stronger result, which is a Bogomolov type generalization of DAO for curves.
 
-苏伟旭 (复旦大学)    
+苏伟旭 (中山大学)    
 题目: Thurston volume of the unit balls associated to quadratic differentials  
 摘要: Let q be a holomorphic quadratic differential on a compact Riemann surface. 
 We can associate q with a flat metric and a unit ball of the measured lamination space. 
