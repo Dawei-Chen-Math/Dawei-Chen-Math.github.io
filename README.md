@@ -176,8 +176,8 @@ The talk is based on arXiv:2005.02275, arXiv:2110.06774.
 As an application, we show that as the genus g goes to infinity, on a generic hyperbolic surface in the moduli space of Riemann surfaces of genus g, most closed geodesics of length significantly less than $\sqrt{g}$ are simple and non-separating, and most closed geodesics of length significantly greater than $\sqrt{g}$ are non-simple, confirming a conjecture of Lipnowski-Wright. This is a joint work with Yuhao Xue.  
 
 李方（浙江大学）  
-题目: 待定  
-摘要: 待定   
+题目: Combinatorial Methods of Cluster Algebras and Some Related Problems    
+摘要: Combinatorial methods are important in the theory of cluster algebras, involving graphs, Riemannian surfaces, combinatorial topology, polytopes, and etc. This talk will give an introduction to the combinatorial methods involved in our researches and some results obtained from them related to some important topics in cluster algebras, including the positivity of cluster variables, the positivity of denominator vectors, the polytope basis and the unistructurality of cluster algebras, etc.     
 
 孙哲 (中国科学技术大学)    
 题目: Exponential volumes of moduli spaces of hyperbolic surfaces  
