@@ -24,9 +24,9 @@
 |  11:00-11:20    | 茶歇  |  
 |  11:20-12:10    | 陈亦飞  |  吕鑫 | 杜荣 | 宗正宇 | 张诗卓 |
 |  12:10-14:30    | 午餐  |  
-|  14:30-15:20    | 刘克峰 | 方博汉 | 自由活动  | 袁瑶  |  待定  |
+|  14:30-15:20    | 刘克峰 | 方博汉 | 自由活动  | 袁瑶  |  余讯  |
 |  15:20-15:40    | 茶歇  |  
-|   15:40-16:30   | 郭帅  |  魏传豪 |  | 贾甲 |  待定  |
+|   15:40-16:30   | 郭帅  |  魏传豪 |  | 贾甲 |  胡智  |
 |  18:00    | 晚餐  |  
 
 | 时间  | 7月8日 | 7月9日 | 7月10日 | 7月11日  | 7月12日  |
@@ -147,6 +147,14 @@ This is based on the joint work with Hanfei Guo.
 张诗卓（MSRI/晨兴数学中心）  
 题目: Recent advances on categorical Torelli problems   
 摘要: Let X be a Fano variety(not necessarily smooth) and denote the non-trivial semi-orthogonal component by \Ku(X), known as the Kuznetsov component. The categorical Torelli problem asks if \Ku(X) determines the isomorphism class of X. I will briefly talk about the history of this topic, including the known results and popular strategies to prove these results(Hodge theoretic, moduli space theoretic and Chow theoretic). Then, I will survey the recent advances for (weighted) hypersurfaces, a cubic threefold with a geometric involution, del Pezzo threefold of Picard rank one, and a class of nodal prime Fano threefolds. Meanwhile, I will talk about some new approaches to solving these problems. If time permits, I will also speak about categorical Torelli problems for a class of index one prime Fano threefold as the double cover of del Pezzo threefolds. This talk is based on a series of works with Xun Lin, Zhiyu Liu, Soheyla Feyzbakhsh, Jorgen Renneomo, Xianyu Hu, Sabastian-Casalaina Martin, and Zheng Zhang.   
+
+余讯（天津大学）    
+题目: Automorphism groups of smooth hypersurfaces    
+摘要: In this talk, I will discuss some recent results about classifying automorphism groups of smooth hypersurfaces in the projective space. This talk is based on joint works with Keiji Oguiso, Li Wei, Song Yang, and Zigang Zhu.   
+
+胡智（南京理工大学）  
+题目: Parabolic moduli space in nonabelian hodge theory
+摘要: In this talk，we discuss parabolic objects in non-abelian Hodge theory and their moduli spaces.  
 
 阮勇斌（浙江大学）  
 题目: 待定  
