@@ -160,8 +160,8 @@ This is based on the joint work with Hanfei Guo.
 摘要: In this talk，we discuss parabolic objects in non-abelian Hodge theory and their moduli spaces.  
 
 阮勇斌（浙江大学）  
-题目: 待定  
-摘要: 待定   
+题目: Counting Curves in Calabi-Yau 3-folds  
+摘要: Counting holomorphic curves in a Calabi-Yau 3-fold is a central problem in physics. It partially motivated the development of Gromov-Witten theory. Over the years, many powerful techniques were developed to solve the problem in non-Calabi-Yau cases. The original case of Calabi-Yau 3-folds remains to be the most difficult cases. Thanks to the contributions of a group of very talented young mathematicians, we are finally bringing the problem to a satisfactory conclusion.     
 
 蒋云峰 (美国堪萨斯大学)        
 题目: A SL_r/PGL_r-correspondence for algebraic surfaces   
@@ -198,8 +198,8 @@ To fix this problem, we introduce the exponential volume form given by the volum
 We show that the exponential volume is finite. And we prove the recursion formulas for the exponential volumes, generalising Mirzakhani's recursions for the volumes of moduli spaces of hyperbolic surfaces. We expect the exponential volumes are relevant to the open string theory. This is a joint work with Alexander Goncharov.   
 
 黄意（清华大学）  
-题目: 待定  
-摘要: 待定   
+题目: The earthquake metric    
+摘要: We (try to) give a friendly guide for shearing between hyperbolic surfaces in as ``efficient" a manner as possible. On the way, we'll see Teichmueller spaces, Thurston's earthquake theorem, and a novel metric on Teichmueller space called the earthquake metric which has surprising connections to both the Thurston metric and the Weil-Petersson metric. This is work in collaboration with K. Ohshika, H. Pan and A. Papadopoulos.  
 
 潘会平 (华南理工大学)    
 题目: Algebraic intersection for hyperbolic surfaces                             
