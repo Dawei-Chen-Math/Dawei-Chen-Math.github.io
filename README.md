@@ -263,7 +263,7 @@ In this talk, we explain how the tropicalization of a family of algebraic curves
 题目: 待定    
 摘要: 待定   
 
-赵辉（中科院系统所）
+赵辉（中科院软件所）
 题目: 待定     
 摘要: 待定     
 
