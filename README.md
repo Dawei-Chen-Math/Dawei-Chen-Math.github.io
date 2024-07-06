@@ -254,6 +254,26 @@ We will focus on the link between both subjects with hyperbolic geometry and Tei
 摘要: Tropical varieties collects the combinatorial data of degenerations of algebraic varieties. 
 In this talk, we explain how the tropicalization of a family of algebraic curves forms a family of tropical curves, and describe certain balancing conditions of the induced map to moduli space of tropical curves. If time permits, we will also discuss applications to liftability of tropical curves and irreducibility of Severi varieties. This is joint work with Karl Christ and Ilya Tyomkin.   
 
+陈柯（南京大学）
+题目: 待定  
+摘要: 待定   
+
+王新（山东大学）
+题目: 待定    
+摘要: 待定   
+
+赵辉（中科院系统所）
+题目: 待定     
+摘要: 待定     
+
+胡正宇（重庆理工大学）
+题目: 待定  
+摘要: 待定  
+
+赵永强（西湖大学）  
+题目: 待定   
+摘要: 待定   
+
 **交通:**  
 
 杭州西站: 开车约13公里，地铁约50分  
