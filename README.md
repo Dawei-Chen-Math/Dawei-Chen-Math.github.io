@@ -35,13 +35,13 @@
 | :----: | :----:   | :----: |  :----: |  :----: |  :----: |
 |  9:00-9:50   | 李方  | 阮勇斌  | 苏伟旭  | 李琼玲 | 陈柯  |
 |  9:50-10:10    | 茶歇  |  
-|  10:10-11:00    | 蒋云峰  |  孙哲  | 范祐维  | 李志远  | 王新 |
+|  10:10-11:00    | 蒋云峰  |  孙哲  | 范祐维  | 冀诸超 | 王新 |
 |  11:00-11:20    | 茶歇  | 
 |  11:20-12:10    | 邱宇  |  黄意  | 韩喆  | 田志宇 | 赵辉 |
 |  12:10-14:30    | 午餐  |  
 |  14:30-15:20    | 吴云辉 |  潘会平 |  自由活动    | 聂鑫 | 胡正宇 |
 |  15:20-15:40    | 茶歇  |  
-|   15:40-16:30   | 杨迪   |  冀诸超  |  | 何翔  | 赵永强 |
+|   15:40-16:30   | 杨迪   |  李志远  |  | 何翔  | 赵永强 |
 |   16:50-17:40   |   |    |  | 张迎春  |  |
 |  18:00    | 晚餐  |  
 
@@ -205,11 +205,10 @@ We show that the exponential volume is finite. And we prove the recursion formul
 题目: Algebraic intersection for hyperbolic surfaces                             
 摘要: How much can two curves of given length intersect each other? In this talk, we will discuss the algebraic intersection form of hyperbolic surfaces. We will show that the algebraic intersection form has a minimum in the moduli space and that the minimum grows in the order $(\log g)^{-2}$ in terms of the genus. We will also describe the asymptotic behavior in the moduli space. This is a joint work with Manman Jiang.
 
-冀诸超 (西湖大学)     
-题目: The Dynamical André-Oort conjecture for rational maps  
-摘要: This is a joint work with Junyi Xie. 
-We prove the Dynamical André-Oort (DAO) conjecture proposed by Baker and DeMarco for families of rational maps parameterized by an algebraic curve. 
-In fact, we prove a stronger result, which is a Bogomolov type generalization of DAO for curves.
+李志远 (复旦大学)    
+题目: Canonical cycles on moduli space of projective K3 surfaces and beyond  
+摘要: In this talk, I will survey some results on studying algebraic cycles on moduli space of projective (marked) K3 surface. 
+This includes the construction of tautological ring, Deligne-Beilinson cohomology of universal K3 surfaces and computation of Chern classes of tagent bundles of the moduli space.   
 
 苏伟旭 (中山大学)    
 题目: Thurston volume of the unit balls associated to quadratic differentials  
@@ -233,10 +232,11 @@ This is a joint work with A. King and Y. Qiu.
 题目: 待定  
 摘要: 待定   
 
-李志远 (复旦大学)    
-题目: Canonical cycles on moduli space of projective K3 surfaces and beyond  
-摘要: In this talk, I will survey some results on studying algebraic cycles on moduli space of projective (marked) K3 surface. 
-This includes the construction of tautological ring, Deligne-Beilinson cohomology of universal K3 surfaces and computation of Chern classes of tagent bundles of the moduli space.   
+冀诸超 (西湖大学)     
+题目: The Dynamical André-Oort conjecture for rational maps  
+摘要: This is a joint work with Junyi Xie. 
+We prove the Dynamical André-Oort (DAO) conjecture proposed by Baker and DeMarco for families of rational maps parameterized by an algebraic curve. 
+In fact, we prove a stronger result, which is a Bogomolov type generalization of DAO for curves.   
 
 田志宇 (北京大学)    
 题目: Homological stability and space of curves on some varieties  
