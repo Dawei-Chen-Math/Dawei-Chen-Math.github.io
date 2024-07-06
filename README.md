@@ -62,7 +62,7 @@ We conjecture that a moduli space, which fails  being the generic rigidity, is a
 That is, any finite subgroup of G contains a normal abelian subgroup of index at most J, where J is an integer only depends on the group G. 
 For the Cremona group of rank n, which is the birational automorphism group of the projective space of dim n, J.-P. Serre proved that the Cremona group of rank 2 has Jordan property. Serre conjectured that the Cremona group of rank n has Jordan property. Prokhorov and Shramov proved the Cremona group of rank 3 has Jordan property, and they pointed out Serre's conjecture holds if the boundedness of Fano varieties conjecture (BAB conjecture) holds. As the BAB conjecture is proved by the Fields medalist Caucher Birkar, Serre's conjecture holds. In this talk, we will discuss Jordan property for automorphism groups of surfaces of positive characteristic. This is a joint work with C. Shramov.   
 
-刘克峰 (美国加州大学洛杉矶分校)    
+刘克峰 (重庆理工大学)    
 题目: Intersection theory on moduli space of super Riemann surfaces       
 摘要: The intersection theory on moduli space of super Riemann surfaces was related to Jackiw-Teitelboim (JT) gravity, which is a simple theory of two-dimensional quantum gravity. We will talk about our works on the super version of recursion formulas of higher Weil-Petersson volume, generalizing the formula of Stanford-Witten. We will also talk about polynomiality, asymptotics of intersection numbers and their applications.    
 
