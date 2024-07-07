@@ -12,7 +12,7 @@
 [贾甲](https://ymsc.tsinghua.edu.cn/info/1035/3776.htm)，[刘克峰](https://www.math.ucla.edu/~liu/)，[刘治宇](https://sites.google.com/view/zhiyuliu)，[吕鑫](https://math.ecnu.edu.cn/~xlv/intro_c.html?language=1&id=214)，[谈胜利](https://math.ecnu.edu.cn/~sltan/intro_c.html)，[魏传豪](https://www.westlake.edu.cn/faculty/chuanhao-wei.html)，[杨晓奎](https://www.math.tsinghua.edu.cn/info/1125/1577.htm)，[余讯](http://cam.tju.edu.cn/faculty/teacherDetail.php?id=46)，
 [袁瑶](https://ams.cnu.edu.cn/rydw1/jyry1/boda_1585734093_1233.htm)，[张诗卓](https://sites.google.com/view/shizhuozhang/home)，[张通](https://math.ecnu.edu.cn/~tzhang/)，[张翼华](https://ymsc.tsinghua.edu.cn/info/1031/3111.htm)，[张子宇](https://ziyuzhang.github.io/)，[郑志伟](https://zhengzhiweimath.github.io/homepage/)，[宗正宇](https://www.math.tsinghua.edu.cn/szdw1/jsml.htm)，[左康](https://maths.whu.edu.cn/info/1292/18359.htm) 
 
-**7月8-12日报告人:** [陈柯](https://math.nju.edu.cn/szdw/apypl1/20190911/i21695.html#)，[范祐维](https://ywfan-math.github.io/)，[韩喆](https://maths.henu.edu.cn/info/1204/5615.htm)，[何翔](https://sites.google.com/site/xiangghe/)，[胡正宇](https://msrc.cqut.edu.cn/info/1018/1017.htm)，[黄意](https://www.yihuang.site/)，[冀诸超](https://sites.google.com/site/zhuchaojishomepage/)，[蒋云峰](https://jiang.ku.edu)，[李方](https://person.zju.edu.cn/0098292#0)，[李琼玲](http://www.cim.nankai.edu.cn/2019/0110/c11453a118234/page.htm)，[李志远](https://faculty.fudan.edu.cn/zhiyuanli/zh_CN/index.htm)，[聂鑫](https://sites.google.com/site/xinniemath/)，[潘会平](http://www2.scut.edu.cn/math/2018/0316/c14638a482211/page.htm)，[邱宇](https://ubw-q.github.io/)，[阮勇斌](http://www.iasm.zju.edu.cn/2021/0525/c24255a2380362/page.htm)，[苏伟旭](https://math.sysu.edu.cn/teacher/3043)，[孙哲](https://sites.google.com/site/zhesunmath/research?authuser=0)，[田志宇](http://faculty.bicmr.pku.edu.cn/~tianzhiyu/)，[王新](https://faculty.sdu.edu.cn/xinwang/zh_CN/index.htm)，[吴云辉](https://www.math.tsinghua.edu.cn/info/1125/1901.htm)，[杨迪](http://staff.ustc.edu.cn/~diyang/)，[张迎春](http://www.iasm.zju.edu.cn/2022/1104/c63278a2666175/page.htm)，[赵辉](https://scholar.harvard.edu/huizhao/meshdgp)，[赵永强](https://en.westlake.edu.cn/faculty/yongqiang-zhao.html)
+**7月8-12日报告人:** [陈柯](https://math.nju.edu.cn/szdw/apypl1/20190911/i21695.html#)，[范祐维](https://ywfan-math.github.io/)，[韩喆](https://maths.henu.edu.cn/info/1204/5615.htm)，[何翔](https://sites.google.com/site/xiangghe/)，[胡正宇](https://msrc.cqut.edu.cn/info/1018/1017.htm)，[黄意](https://www.yihuang.site/)，[冀诸超](https://sites.google.com/site/zhuchaojishomepage/)，[蒋云峰](https://jiang.ku.edu)，[李方](https://person.zju.edu.cn/0098292#0)，[李琼玲](http://www.cim.nankai.edu.cn/2019/0110/c11453a118234/page.htm)，[李志远](https://faculty.fudan.edu.cn/zhiyuanli/zh_CN/index.htm)，[聂鑫](https://sites.google.com/site/xinniemath/)，[潘会平](http://www2.scut.edu.cn/math/2018/0316/c14638a482211/page.htm)，[邱宇](https://ubw-q.github.io/)，[阮勇斌](http://www.iasm.zju.edu.cn/2021/0525/c24255a2380362/page.htm)，[苏伟旭](https://math.sysu.edu.cn/teacher/3043)，[孙哲](https://sites.google.com/site/zhesunmath/research?authuser=0)，[田志宇](http://faculty.bicmr.pku.edu.cn/~tianzhiyu/)，[王俭](https://my.nankai.edu.cn/sms/wj/list.htm)，[王新](https://faculty.sdu.edu.cn/xinwang/zh_CN/index.htm)，[吴云辉](https://www.math.tsinghua.edu.cn/info/1125/1901.htm)，[杨迪](http://staff.ustc.edu.cn/~diyang/)，[张迎春](http://www.iasm.zju.edu.cn/2022/1104/c63278a2666175/page.htm)，[赵辉](https://scholar.harvard.edu/huizhao/meshdgp)，[赵永强](https://en.westlake.edu.cn/faculty/yongqiang-zhao.html)
 
 **部分参会人员网页:** [杨金榜](https://jbyang1987.github.io/index.html)，[孙悦然](https://sites.google.com/view/ruiransunmath/homepage)，[徐万元](http://teacher.shnu.edu.cn/slxy/xwy/listm.htm)，[孙浩](https://www.researchgate.net/profile/Hao_Sun28)，[陆俊](https://math.ecnu.edu.cn/facultydetail.html?uid=jlu)，[杨文](https://grzy.hnu.edu.cn/site/index/yangwen2)，[李晓斌](https://faculty.swjtu.edu.cn/lixiaobin1/zh_CN/index.htm)，[罗强华](https://www.researchgate.net/profile/Qianghua-Luo)，[陆斯成](https://www.researchgate.net/profile/Sicheng-Lu-4)，[朱胜茂](https://mypage.zjnu.edu.cn/ZSM5/zh_CN/index.htm)，[刘小雷](http://faculty.dlut.edu.cn/liuxiaolei/zh_CN/index.htm)，[谭东](https://gxcmr.gxu.edu.cn/info/1145/1502.htm)，[钟友良](https://zhongyl0430.github.io/)，[李灵光](https://math.tongji.edu.cn/info/1114/8351.htm)，[龚成](https://math.suda.edu.cn/40/b0/c18193a409776/page.htm)
 
@@ -209,7 +209,11 @@ We show that the exponential volume is finite. And we prove the recursion formul
 李志远 (复旦大学)    
 题目: Canonical cycles on moduli space of projective K3 surfaces and beyond  
 摘要: In this talk, I will survey some results on studying algebraic cycles on moduli space of projective (marked) K3 surface. 
-This includes the construction of tautological ring, Deligne-Beilinson cohomology of universal K3 surfaces and computation of Chern classes of tagent bundles of the moduli space.   
+This includes the construction of tautological ring, Deligne-Beilinson cohomology of universal K3 surfaces and computation of Chern classes of tagent bundles of the moduli space.  
+
+田志宇 (北京大学)    
+题目: Homological stability and space of curves on some varieties  
+摘要: Homological stability about moduli space of curves, or mapping class groups, is by now well-understood. I will discuss a set of conjectures as an attempt to understand homological stability of moduli space of curves on a very special class of varieties, such as the projective space, especially about their asymptotic behavior as the curve class becomes more and more positive. This talk will be mostly about motivations, questions, some non-trivial evidence, but very few answers.   
 
 苏伟旭 (中山大学)    
 题目: Thurston volume of the unit balls associated to quadratic differentials  
@@ -239,22 +243,19 @@ This is a joint work with A. King and Y. Qiu.
 We prove the Dynamical André-Oort (DAO) conjecture proposed by Baker and DeMarco for families of rational maps parameterized by an algebraic curve. 
 In fact, we prove a stronger result, which is a Bogomolov type generalization of DAO for curves.   
 
-田志宇 (北京大学)    
-题目: Homological stability and space of curves on some varieties  
-摘要: Homological stability about moduli space of curves, or mapping class groups, is by now well-understood. 
-I will discuss a set of conjectures as an attempt to understand homological stability of moduli space of curves on a very special class of varieties, such as the projective space, especially about their asymptotic behavior as the curve class becomes more and more positive. 
-This talk will be mostly about motivations, questions, some non-trivial evidence, but very few answers.   
-
-聂鑫 (东南大学)     
-题目: Circle pattern and discrete conformality   
-摘要: We give a survey of two closely related objects of study in discrete geometry: circle patterns and discrete conformal equivalence of polyhedral surfaces. 
-The former deals with patterns of round circles on a surface whose combinatorics/topology is fixed, while the radii of circles may vary; the latter is a discrete analgoue of the usual conformal equivalence of Riemannian metrics. 
-We will focus on the link between both subjects with hyperbolic geometry and Teichmüller spaces, and discuss some recent progress and open problems.  
-
 何翔 (清华大学)       
 题目: Balancing properties of tropical moduli maps  
 摘要: Tropical varieties collects the combinatorial data of degenerations of algebraic varieties. 
 In this talk, we explain how the tropicalization of a family of algebraic curves forms a family of tropical curves, and describe certain balancing conditions of the induced map to moduli space of tropical curves. If time permits, we will also discuss applications to liftability of tropical curves and irreducibility of Severi varieties. This is joint work with Karl Christ and Ilya Tyomkin.   
+
+聂鑫 (东南大学)     
+题目: Circle pattern and discrete conformality   
+摘要: We give a survey of two closely related objects of study in discrete geometry: circle patterns and discrete conformal equivalence of polyhedral surfaces. 
+The former deals with patterns of round circles on a surface whose combinatorics/topology is fixed, while the radii of circles may vary; the latter is a discrete analgoue of the usual conformal equivalence of Riemannian metrics. We will focus on the link between both subjects with hyperbolic geometry and Teichmüller spaces, and discuss some recent progress and open problems.  
+
+王俭（南开大学）  
+题目:   
+摘要:   
 
 张迎春（浙江大学）    
 题目: A cluster algebra structure in the quantum cohomology ring of a quiver variety        
