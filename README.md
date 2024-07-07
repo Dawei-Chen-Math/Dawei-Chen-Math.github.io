@@ -260,8 +260,9 @@ In this talk, we explain how the tropicalization of a family of algebraic curves
 摘要: 待定     
 
 王新（山东大学）  
-题目: 待定      
-摘要: 待定     
+题目: Virasoro conjecture for Hodge integrals with target varieties and its applications      
+摘要: Motivated by Eguchi-Hori-Xiong-Katz's Virasoro conjecture and their genus-0 $\widetilde{L}_n$ constraints for Gromov-Witten invariants, we propose 
+Virasoro conjecture for general Hodge integrals with target varieties. Then we talk about recent progress about this conjecture and its applications.        
 
 赵辉（中科院软件所）  
 题目: 待定       
