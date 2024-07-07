@@ -255,6 +255,11 @@ We will focus on the link between both subjects with hyperbolic geometry and Tei
 摘要: Tropical varieties collects the combinatorial data of degenerations of algebraic varieties. 
 In this talk, we explain how the tropicalization of a family of algebraic curves forms a family of tropical curves, and describe certain balancing conditions of the induced map to moduli space of tropical curves. If time permits, we will also discuss applications to liftability of tropical curves and irreducibility of Severi varieties. This is joint work with Karl Christ and Ilya Tyomkin.   
 
+张迎春（浙江大学）    
+题目: A cluster algebra structure in the quantum cohomology ring of a quiver variety        
+摘要: In this talk, I will propose a relation between cluster algebras and quantum cohomology rings of quiver varieties. In particular, I will prove this relation for A and D type quivers. 
+This is a joint work with Weiqiang He.    
+
 陈柯（南京大学）  
 题目: 待定    
 摘要: 待定     
