@@ -229,8 +229,8 @@ Furthermore, I will explain the connection between the groupoid and topology of 
 This is a joint work with A. King and Y. Qiu.  
 
 李琼玲（南开大学）  
-题目: 待定  
-摘要: 待定   
+题目: Harmonic metrics on Higgs bundles over non-compact surfaces     
+摘要: For a Higgs bundle over a compact Riemann surface of genus at least 2, the Hitchin-Kobayashi correspondence says the existence of a harmonic metric is equivalent to the polystability of the Higgs bundle. In this talk, we discuss some recent progress on the existence and uniqueness of harmonic metrics on Higgs bundles over general non-compact Riemann surfaces. This is joint work with Takuro Mochizuki.      
 
 冀诸超 (西湖大学)     
 题目: The Dynamical André-Oort conjecture for rational maps  
@@ -270,8 +270,8 @@ This is a joint work with Weiqiang He.
 Virasoro conjecture for general Hodge integrals with target varieties. Then we talk about recent progress about this conjecture and its applications.        
 
 赵辉（中科院软件所）  
-题目: 待定       
-摘要: 待定       
+题目: Computational Discrete Global Geometric Structures          
+摘要: Computational discrete global geometric structures refers to designing algorithm for various global geometric structures, and then applying them to various industrial applications. For example, CADCAE industrial software is currently a bottleneck technology with a huge market. These softwares mainly function on two-dimensional surfaces and three-dimensional entities, and therefore rely on the in-depth application of low-dimensional differential geometry and topology theories. Conversely, extensive industrial applications will also drive the study and research of these related differential geometry and topology theories. We discuss several core technical problems in CADCAE industrial software at present: a) Isogeometric analysis, b) T-Spline splines, c) Finite element analysis, d) Hex hexahedron generation, e) Quad quadrilateral generation, f) Spline surfaces, g) Subdivision; The solutions to these problems require the use of geometric structures such as Riemann surfaces, foliation structures, differential forms, translation surfaces, semi-translation surfaces, moduli spaces, Strata, Teichmüller spaces, holomorphic quadratic differentials, Thurston's surface mapping classes, square-tiling，saddle connection，ribbon graph, Veech surfaces，etc. Finally, we demonstrate some experimental pictures and videos of applying these low-dimensional differential geometry and topology theories for algorithm design to solve them.          
 
 胡正宇（重庆理工大学）  
 题目: 待定    
