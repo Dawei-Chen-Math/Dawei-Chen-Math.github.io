@@ -187,6 +187,12 @@ As an application, we show that as the genus g goes to infinity, on a generic hy
 We will also apply the Delecroix--Goujard--Zograf--Zorich formula and Witten's intersection numbers to the study of the large genus asymptotics of the MV volumes. 
 The talk is based on arXiv:2005.02275, arXiv:2110.06774.   
 
+韩喆 (河南大学)     
+题目: Groupoids from moduli space of quadratic differentials on Riemann surfaces  
+摘要: By Bridgeland-Smith’s seminal work, the meromorphic quadratic differentials on compact Riemann surface could be realized as stability conditions on some triangulated categories. In this talk, I will introduce a groupoid given by cell structure of the moduli space of meromorphic quadratic differentials. 
+Furthermore, I will explain the connection between the groupoid and topology of the moduli space. 
+This is a joint work with A. King and Y. Qiu.   
+
 阮勇斌（浙江大学）  
 题目: Counting Curves in Calabi-Yau 3-folds  
 摘要: Counting holomorphic curves in a Calabi-Yau 3-fold is a central problem in physics. It partially motivated the development of Gromov-Witten theory. Over the years, many powerful techniques were developed to solve the problem in non-Calabi-Yau cases. The original case of Calabi-Yau 3-folds remains to be the most difficult cases. Thanks to the contributions of a group of very talented young mathematicians, we are finally bringing the problem to a satisfactory conclusion.    
@@ -226,12 +232,6 @@ This is a joint work with Shenxing Zhang.
 题目: Dynamical aspects of categories   
 摘要: We will recall certain analogy between Teichmuller theory and triangulated categories, and discuss categorical results that are motivated from Teichmuller dynamics. 
 Some open questions will be mentioned if time permitted.  
-
-韩喆 (河南大学)     
-题目: Groupoids from moduli space of quadratic differentials on Riemann surfaces  
-摘要: By Bridgeland-Smith’s seminal work, the meromorphic quadratic differentials on compact Riemann surface could be realized as stability conditions on some triangulated categories. In this talk, I will introduce a groupoid given by cell structure of the moduli space of meromorphic quadratic differentials. 
-Furthermore, I will explain the connection between the groupoid and topology of the moduli space. 
-This is a joint work with A. King and Y. Qiu.  
 
 李琼玲（南开大学）  
 题目: Harmonic metrics on Higgs bundles over non-compact surfaces     
