@@ -263,8 +263,8 @@ The former deals with patterns of round circles on a surface whose combinatorics
 This is a joint work with Weiqiang He.    
 
 陈柯（南京大学）  
-题目: 待定    
-摘要: 待定     
+题目: On Shimura subvarieties away from the Torelli locus       
+摘要: Coleman-Oort conjecture predicts that Shimura subvarieties in the Siegel modular variety A_g should not be contained generically in the Torelli locus when the genus is large enough. We discuss examples supporting the conjecture using geometry of surface fibrations. This is based on joint works with Kang Zuo and Xin Lv.          
 
 王新（山东大学）  
 题目: Virasoro conjecture for Hodge integrals with target varieties and its applications      
