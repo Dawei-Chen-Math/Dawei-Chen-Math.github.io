@@ -253,8 +253,8 @@ In this talk, we explain how the tropicalization of a family of algebraic curves
 The former deals with patterns of round circles on a surface whose combinatorics/topology is fixed, while the radii of circles may vary; the latter is a discrete analgoue of the usual conformal equivalence of Riemannian metrics. We will focus on the link between both subjects with hyperbolic geometry and Teichmüller spaces, and discuss some recent progress and open problems.  
 
 王俭（南开大学）  
-题目:   
-摘要:   
+题目: The positive fundamental group of Sp(2n)      
+摘要: In this talk, we examine the homotopy classes of positive loops in Sp(2n). We demonstrate that two positive loops are homotopic if and only if they are homotopic through positive loops. This provides a positive answer to a conjecture raised by McDuff. As a consequence, we extend several results of McDuff and Chance to higher dimensional symplectic manifolds without dimensional restrictions. This is a joint work with Qinglong Zhou.   
 
 张迎春（浙江大学）    
 题目: A cluster algebra structure in the quantum cohomology ring of a quiver variety        
@@ -275,12 +275,12 @@ Virasoro conjecture for general Hodge integrals with target varieties. Then we t
 摘要: Computational discrete global geometric structures refers to designing algorithm for various global geometric structures, and then applying them to various industrial applications. For example, CADCAE industrial software is currently a bottleneck technology with a huge market. These softwares mainly function on two-dimensional surfaces and three-dimensional entities, and therefore rely on the in-depth application of low-dimensional differential geometry and topology theories. Conversely, extensive industrial applications will also drive the study and research of these related differential geometry and topology theories. We discuss several core technical problems in CADCAE industrial software at present: a) Isogeometric analysis, b) T-Spline splines, c) Finite element analysis, d) Hex hexahedron generation, e) Quad quadrilateral generation, f) Spline surfaces, g) Subdivision; The solutions to these problems require the use of geometric structures such as Riemann surfaces, foliation structures, differential forms, translation surfaces, semi-translation surfaces, moduli spaces, Strata, Teichmüller spaces, holomorphic quadratic differentials, Thurston's surface mapping classes, square-tiling，saddle connection，ribbon graph, Veech surfaces，etc. Finally, we demonstrate some experimental pictures and videos of applying these low-dimensional differential geometry and topology theories for algorithm design to solve them.          
 
 胡正宇（重庆理工大学）  
-题目: 待定    
-摘要: 待定    
+题目: Generalised MMP and boundedness of generalised pairs       
+摘要: In this talk I will introduce a generalised version of minimal model program (MMP). I will first talk about our motivation to construct such MMP: the boundedness of generalised pairs of general type. A similar result on usual pairs was proved by Hacon-McKernan-Xu, which relies on MMP in families and their approach involves a deep result from complex analysis. Our recent work focuses on ``generalised" MMP in families via a purely algebraic approach. This is a joint work with Caucher Birkar.       
 
 赵永强（西湖大学）    
-题目: 待定   
-摘要: 待定   
+题目: On the multiplicity of eigenvalues of discrete tori      
+摘要: It is well known that the standard flat torus T^2=R^2/Z^2 has arbitrarily large Laplacian-eigenvalue multiplicies. Consider the discrete torus C_N * C_N with the discrete Laplacian operator; we prove, however, that the eigenvalue multiplicities are uniformly bounded for any N, except for the eigenvalue one when N is even. In fact, similar phenomena also hold for higher-dimensional discrete tori. In this talk, we will outline a proof of the uniformly bounded multiplicity result.      
 
 **交通:**  
 
